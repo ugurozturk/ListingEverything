@@ -6,7 +6,6 @@
 ## Watching Animes
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Boku dake ga Inai Machi : 2
-1. Captain Earth : 5
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
 1. Dimension W : 6
 1. Donten ni Warau : 1
@@ -29,7 +28,6 @@
 1. Magic Kaito 1412 : 1
 1. Makai Ouji: Devils and Realist : 2
 1. Mobile Suit Gundam: Iron-Blooded Orphans : 2
-1. Musaigen no Phantom World : 5
 1. Noragami Aragoto : 3
 1. Norn9: Norn+Nonet : 2
 1. One Piece : 767
@@ -54,6 +52,7 @@
 
 ## Watched Animes
 1. Ajin
+1. Musaigen no Phantom World : 13
 2. Ajin Season 2
 1. 11eyes : 12
 1. Accel World : 24
@@ -344,3 +343,6 @@
 1. Zero no Tsukaima: Princesses no Rondo Picture Drama : 0
 1. Zetman : 0
 1. Zettai Karen Children: The Unlimited - Hyoubu Kyousuke : 0
+
+## Dropped
+1. Captain Earth : 5
