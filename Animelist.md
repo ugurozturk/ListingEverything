@@ -5,8 +5,6 @@
 
 ## Watching Animes
 1. Akagami no Shirayuki-hime 2nd Season 1
-1. Akatsuki no Yona OVA : 1
-1. B-gata H-kei : 4
 1. Boku dake ga Inai Machi : 2
 1. Captain Earth : 5
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -59,6 +57,8 @@
 2. Ajin Season 2
 1. 11eyes : 12
 1. Accel World : 24
+1. B-gata H-kei : 12
+1. Akatsuki no Yona OVA : 3
 1. Afro Samurai : 5
 1. Afro Samurai Movie : 1
 1. Afro Samurai: Resurrection : 1
@@ -246,7 +246,7 @@
 1. Soul Eater : 51
 1. Soul Eater NOT! : 12
 1. Steins;Gate : 24
-1. Steins;Gate Movie: Fuka Ryouiki no Déjà vu : 1
+1. Steins;Gate Movie: Fuka Ryouiki no Deja vu : 1
 1. Strike the Blood : 24
 1. Sword Art Online : 25
 1. Sword Art Online II : 24
