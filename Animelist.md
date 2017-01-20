@@ -5,7 +5,6 @@
 
 ## Watching Animes
 1. Akagami no Shirayuki-hime 2nd Season 1
-1. Boku dake ga Inai Machi : 2
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
 1. Dimension W : 6
 1. Donten ni Warau : 1
@@ -57,6 +56,7 @@
 1. 11eyes : 12
 1. Accel World : 24
 1. B-gata H-kei : 12
+1. Boku dake ga Inai Machi : 12
 1. Akatsuki no Yona OVA : 3
 1. Afro Samurai : 5
 1. Afro Samurai Movie : 1
