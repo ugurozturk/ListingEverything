@@ -4,11 +4,12 @@
 [Plan to watch](#plan-to-watch-animes)  
 
 ## Watching Animes
+1. Saijaku Muhai no Bahamut : 1
+
+1. Ao no Exorcist Kyoto Fujouou-hen 3
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
-1. Dimension W : 6
 1. Donten ni Warau : 1
-1. Dragon Collection : 3
 1. Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi : 2
 1. Fairy Tail (2014) : 24
 1. Gintama : 33
@@ -35,7 +36,6 @@
 1. Ore Monogatari!! : 8
 1. Pokemon XY : 7
 1. Psycho-Pass : 8
-1. Saijaku Muhai no Bahamut : 1
 1. Shokugeki no Souma: Ni no Sara : 8
 1. Shoujo-tachi wa Kouya wo Mezasu : 1
 1. Shuffle! : 11
@@ -45,7 +45,7 @@
 1. Utawarerumono: Itsuwari no Kamen : 4
 1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 01
 2. Nanbaka - 14
-3. Seiren - 02
+3. Seiren - 03
 4. Maji de Watashi ni Koi Shinasai 05
 
 
@@ -125,6 +125,7 @@
 1. Devil May Cry : 12
 1. Devil Survivor 2 The Animation : 13
 1. Drifters : 12
+1. Dimension W : 12
 1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka : 13
 1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA : 1
 1. Durarara!! : 24
