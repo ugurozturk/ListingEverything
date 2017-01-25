@@ -16,7 +16,7 @@
 1. Lucifer : 2.Sezon 11. Bölüm
 1. Fringe 1. Sezon 8.Bölüm
 1. Legend of the blue sea 19ep
-1. Goblin e14
+1. Goblin e16
 2. Planet Earth - 2
 
 ## Plan to Watch TV Series
