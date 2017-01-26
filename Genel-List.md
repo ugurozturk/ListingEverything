@@ -15,8 +15,6 @@
 ## Watching Tv Series
 1. Lucifer : 2.Sezon 11. Bölüm
 1. Fringe 1. Sezon 8.Bölüm
-1. Legend of the blue sea 19ep
-1. Goblin e16
 2. Planet Earth - 2
 
 ## Plan to Watch TV Series
@@ -26,12 +24,14 @@
 
 ## Watched Asian TV Series
 1. Bubblegum
+1. Goblin
 2. Personel Taste
 3. Train to Busan (2016)
 4. Boys over Flowers
 5. My Boss is a Hero
 6. The Heirs
 7. A Man Called God
+1. Legend of the blue sea
 
 
 # Movies
