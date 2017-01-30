@@ -6,7 +6,7 @@
 ## Watching Animes
 1. Saijaku Muhai no Bahamut : 1
 
-1. Ao no Exorcist Kyoto Fujouou-hen 3
+1. Ao no Exorcist Kyoto Fujouou-hen 4
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
 1. Donten ni Warau : 1
