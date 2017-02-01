@@ -32,6 +32,7 @@
 6. The Heirs
 7. A Man Called God
 1. Legend of the blue sea
+1. Weightlifting Fairy Kim Bok-joo
 
 
 # Movies
