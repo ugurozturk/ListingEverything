@@ -43,7 +43,7 @@
 1. Subete ga F ni Naru: The Perfect Insider : 1
 1. Ushio to Tora (TV) : 2
 1. Utawarerumono: Itsuwari no Kamen : 4
-1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 03
+1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 04
 2. Nanbaka - 14
 3. Seiren - 03
 4. Maji de Watashi ni Koi Shinasai 05
