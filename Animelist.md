@@ -5,8 +5,12 @@
 
 ## Watching Animes
 1. Saijaku Muhai no Bahamut : 1
+1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 04
+1. Ao no Exorcist Kyoto Fujouou-hen 5
+1. Masamune-kun no Revenge 6. Bölüm
+1. Youjo Senki 6
 
-1. Ao no Exorcist Kyoto Fujouou-hen 4
+
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
 1. Donten ni Warau : 1
@@ -43,9 +47,9 @@
 1. Subete ga F ni Naru: The Perfect Insider : 1
 1. Ushio to Tora (TV) : 2
 1. Utawarerumono: Itsuwari no Kamen : 4
-1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 04
+
 2. Nanbaka - 14
-3. Seiren - 03
+3. Seiren - 05
 4. Maji de Watashi ni Koi Shinasai 05
 
 

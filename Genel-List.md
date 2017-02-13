@@ -16,7 +16,7 @@
 1. Lucifer : 2.Sezon 11. Bölüm
 1. Fringe 1. Sezon 8.Bölüm
 2. Planet Earth - 2
-1. Missing Nine - 2
+1. Missing Nine - 8
 
 ## Plan to Watch TV Series
 ## Watched TV Series
