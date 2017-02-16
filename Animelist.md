@@ -5,7 +5,7 @@
 
 ## Watching Animes
 1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 06
-1. Ao no Exorcist Kyoto Fujouou-hen 5
+1. Ao no Exorcist Kyoto Fujouou-hen 6
 1. Masamune-kun no Revenge 7. Bölüm
 1. Youjo Senki 6
 3. Seiren - 05
