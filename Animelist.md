@@ -4,12 +4,11 @@
 [Plan to watch](#plan-to-watch-animes)  
 
 ## Watching Animes
-1. Saijaku Muhai no Bahamut : 1
-1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 04
+1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 06
 1. Ao no Exorcist Kyoto Fujouou-hen 5
-1. Masamune-kun no Revenge 6. Bölüm
+1. Masamune-kun no Revenge 7. Bölüm
 1. Youjo Senki 6
-
+3. Seiren - 05
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -49,7 +48,7 @@
 1. Utawarerumono: Itsuwari no Kamen : 4
 
 2. Nanbaka - 14
-3. Seiren - 05
+
 4. Maji de Watashi ni Koi Shinasai 05
 
 
@@ -176,6 +175,7 @@
 1. Kiseijuu: Sei no Kakuritsu : 24
 1. Kiss x Sis : 12
 1. Kiss x Sis (TV) : 12
+1. Saijaku Muhai no Bahamut : 12
 1. Kono Subarashii Sekai ni Shukufuku wo! : 10
 1. Kono Subarashii Sekai ni Shukufuku wo! OVA : 1
 1. Kore wa Zombie Desu ka? : 12

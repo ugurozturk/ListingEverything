@@ -17,6 +17,7 @@
 1. Fringe 1. Sezon 8.Bölüm
 2. Planet Earth - 2
 1. Missing Nine - 8
+1. Hwarang: The Beginning 18
 
 ## Plan to Watch TV Series
 ## Watched TV Series
@@ -53,6 +54,7 @@
 9. The Man Who Knew Infinity
 10. Love For A Thousand More
 11. Bounty.Hunters
+1. UnderWorld 5 seriside
 
 
 # Games
