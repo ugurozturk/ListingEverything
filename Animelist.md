@@ -5,10 +5,11 @@
 
 ## Watching Animes
 1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 06
-1. Ao no Exorcist Kyoto Fujouou-hen 6
+1. Ao no Exorcist Kyoto Fujouou-hen 7
 1. Masamune-kun no Revenge 7. Bölüm
 1. Youjo Senki 6
 3. Seiren - 05
+1. Fuuka 8
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -55,6 +56,7 @@
 ## Watched Animes
 1. Ajin
 1. Musaigen no Phantom World : 13
+1. Boku no Hero Academia 13
 2. Ajin Season 2
 1. 11eyes : 12
 1. Accel World : 24
