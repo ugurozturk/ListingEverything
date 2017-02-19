@@ -45,11 +45,8 @@
 1. Shuffle! : 11
 1. Sousei no Onmyouji : 24
 1. Subete ga F ni Naru: The Perfect Insider : 1
-1. Ushio to Tora (TV) : 2
 1. Utawarerumono: Itsuwari no Kamen : 4
-
 2. Nanbaka - 14
-
 4. Maji de Watashi ni Koi Shinasai 05
 
 
@@ -184,6 +181,7 @@
 1. Kore wa Zombie Desu ka? : 12
 1. Koutetsujou no Kabaneri : 12
 1. Kuroko no Basket : 25
+1. Ushio to Tora (TV) : 26	7/10
 1. Kuroko no Basket 2nd Season : 25
 1. Kuroko no Basket 3rd Season : 25
 1. Log Horizon : 25
