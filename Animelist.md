@@ -160,6 +160,7 @@
 1. Hamatora The Animation : 12
 1. Hataraku Maou-sama! : 13
 1. Hellsing : 13
+1. Nejimaki Seirei Senki Tenkyou no Alderamin	13	10/10
 1. Hellsing Ultimate : 10
 1. High School DxD : 12
 1. High School DxD BorN : 12
