@@ -182,6 +182,7 @@
 1. Koutetsujou no Kabaneri : 12
 1. Kuroko no Basket : 25
 1. Ushio to Tora (TV) : 26	7/10
+1. Ushio to Tora (TV) 2nd Season :	13	7/10
 1. Kuroko no Basket 2nd Season : 25
 1. Kuroko no Basket 3rd Season : 25
 1. Log Horizon : 25
