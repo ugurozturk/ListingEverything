@@ -17,7 +17,7 @@
 1. Fringe 1. Sezon 8.Bölüm
 2. Planet Earth - 2
 1. Missing Nine - 8
-1. Hwarang: The Beginning 18
+
 
 ## Plan to Watch TV Series
 ## Watched TV Series
@@ -35,6 +35,7 @@
 7. A Man Called God
 1. Legend of the blue sea
 1. Weightlifting Fairy Kim Bok-joo
+1. Hwarang: The Beginning 20
 
 
 # Movies
