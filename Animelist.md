@@ -7,7 +7,7 @@
 1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 07
 1. Ao no Exorcist Kyoto Fujouou-hen 7
 1. Masamune-kun no Revenge 8. Bölüm
-1. Youjo Senki 6
+1. Youjo Senki 7 + 1sepcial (ep 6,5)
 3. Seiren - 05
 1. Fuuka 8
 
