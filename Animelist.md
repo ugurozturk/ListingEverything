@@ -5,7 +5,7 @@
 
 ## Watching Animes
 1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 07
-1. Ao no Exorcist Kyoto Fujouou-hen 7
+1. Ao no Exorcist Kyoto Fujouou-hen 8
 1. Masamune-kun no Revenge 8. Bölüm
 1. Youjo Senki 7 + 1sepcial (ep 6,5)
 3. Seiren - 05
@@ -139,6 +139,7 @@
 1. Fullmetal Alchemist : 51
 1. Fullmetal Alchemist: Brotherhood : 64
 1. Gakusen Toshi Asterisk : 12
+1. Gakusen Toshi Asterisk S2 : 12
 1. Gangsta. : 12
 1. Gate: Jieitai Kanochi nite, Kaku Tatakaeri : 12
 1. Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season : 12
