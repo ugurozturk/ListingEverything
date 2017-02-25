@@ -191,6 +191,7 @@
 1. Madan no Ou to Vanadis : 13
 1. Magi: The Kingdom of Magic : 25
 1. Magi: The Labyrinth of Magic : 25
+1. Magi: Sinbad no Bouken 13
 1. Mahouka Koukou no Rettousei : 26
 1. Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! : 6
 1. Maken-Ki! : 12
