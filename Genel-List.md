@@ -44,6 +44,7 @@
 
 ## Plan to Watch Movies
 ## Watched Movies
+1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Kubo and the Two Strings
 2. Secret Life of pets
 3. Angry Birds

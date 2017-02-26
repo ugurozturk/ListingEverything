@@ -10,6 +10,7 @@
 1. Youjo Senki 7 + 1sepcial (ep 6,5)
 3. Seiren - 05
 1. Fuuka 8
+1. Okusama ga Seitokaichou 3
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -176,6 +177,7 @@
 1. Kiseijuu: Sei no Kakuritsu : 24
 1. Kiss x Sis : 12
 1. Kiss x Sis (TV) : 12
+1. Kiznaiver	12	8/10
 1. Saijaku Muhai no Bahamut : 12
 1. Kono Subarashii Sekai ni Shukufuku wo! : 10
 1. Kono Subarashii Sekai ni Shukufuku wo! OVA : 1
