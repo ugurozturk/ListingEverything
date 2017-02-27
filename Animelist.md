@@ -11,6 +11,7 @@
 3. Seiren - 05
 1. Fuuka 8
 1. Okusama ga Seitokaichou 3
+1. Little Witch Academia
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -230,6 +231,8 @@
 1. Overlord : 13
 1. Overlord: Ple Ple Pleiades : 8
 1. Owari no Seraph : 12
+1. Okusama ga Seitokaichou
+1. Okusama ga Seitokaichou 2nd Season
 1. Plastic Memories : 13
 1. Pokemon the Movie XY: Ring no Choumajin Hoopa : 1
 1. Princess Lover! : 12
