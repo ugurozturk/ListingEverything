@@ -86,6 +86,8 @@
 1. Bakemono no Ko : 1
 1. Bakemonogatari : 15
 1. Barakamon : 12
+1. Bungou Stray Dogs	12	9/10
+1. Bungou Stray Dogs 2nd Season	12	9/10
 1. Bayonetta: Bloody Fate : 1
 1. Beelzebub : 60
 1. Bikini Warriors : 12
