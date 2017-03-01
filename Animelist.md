@@ -11,7 +11,8 @@
 3. Seiren - 05
 1. Fuuka 8
 1. Okusama ga Seitokaichou 3
-1. Little Witch Academia
+1. Little Witch Academia 7
+1. Akiba's Trip The Animation 6
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -34,9 +35,8 @@
 1. Magic Kaito 1412 : 1
 1. Makai Ouji: Devils and Realist : 2
 1. Mobile Suit Gundam: Iron-Blooded Orphans : 2
-1. Noragami Aragoto : 3
 1. Norn9: Norn+Nonet : 2
-1. One Piece : 767
+1. One Piece : 778
 1. Onsen Yousei Hakone-chan : 2
 1. Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite GetsSareta Ken : 1
 1. Ore Monogatari!! : 8
@@ -205,6 +205,7 @@
 1. Maken-Ki! Two : 10
 1. Mangaka-san to Assistant-san to The Animation : 12
 1. Masou Gakuen HxH : 12
+1. Masou Gakuen HxH - Special: 1
 1. Military! : 12
 1. Mirai Nikki (TV) : 26
 1. Mob Psycho 100 : 12
@@ -216,6 +217,8 @@
 1. Nisekoi : 20
 1. Nisekoi OVA : 3
 1. Nisekoi: : 12
+1. Noragami : 12
+1. Noragami Aragoto : 13 + 2 Ova	8/10
 1. Nisemonogatari : 11
 1. No Game No Life : 12
 1. No Game No Life Specials : 6
@@ -335,7 +338,6 @@
 1. Major S4 : 0
 1. Major S5 : 0
 1. Major S6 : 0
-1. Noragami : 0
 1. One Outs : 0
 1. One Punch Man 2 : 0
 1. RDG: Red Data Girl : 0
