@@ -13,7 +13,7 @@
 [Watched TV Series](#watched-tv-series)  
 
 ## Watching Tv Series
-1. Lucifer : 2.Sezon 11. Bölüm
+1. Lucifer : 2.Sezon 13. Bölüm
 1. Fringe 1. Sezon 8.Bölüm
 2. Planet Earth - 2
 1. Missing Nine - 8
