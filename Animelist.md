@@ -11,8 +11,10 @@
 3. Seiren - 05
 1. Fuuka 8
 1. Okusama ga Seitokaichou 3
-1. Little Witch Academia 7
+1. Little Witch Academia 8
 1. Akiba's Trip The Animation 6
+1. Tales of Zestiria the X S2 : 8(20)
+2. Nanbaka - 16
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -48,7 +50,6 @@
 1. Sousei no Onmyouji : 24
 1. Subete ga F ni Naru: The Perfect Insider : 1
 1. Utawarerumono: Itsuwari no Kamen : 4
-2. Nanbaka - 14
 4. Maji de Watashi ni Koi Shinasai 05
 
 
