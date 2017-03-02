@@ -12,7 +12,7 @@
 1. Fuuka 8
 1. Okusama ga Seitokaichou 3
 1. Little Witch Academia 8
-1. Akiba's Trip The Animation 6
+1. Akiba's Trip The Animation 8
 1. Tales of Zestiria the X S2 : 8(20)
 2. Nanbaka - 16
 
