@@ -4,7 +4,7 @@
 [Plan to watch](#plan-to-watch-animes)  
 
 ## Watching Animes
-1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 07
+1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 08
 1. Ao no Exorcist Kyoto Fujouou-hen 8
 1. Masamune-kun no Revenge 8. Bölüm
 1. Youjo Senki 7 + 1sepcial (ep 6,5)
