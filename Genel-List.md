@@ -13,7 +13,7 @@
 [Watched TV Series](#watched-tv-series)  
 
 ## Watching Tv Series
-1. Lucifer : 2.Sezon 13. Bölüm
+1. Lucifer : 2.Sezon 13. Bölüm (Kış Finali verdi)
 1. Fringe 1. Sezon 8.Bölüm
 2. Planet Earth - 2
 1. Missing Nine - 8
@@ -60,6 +60,7 @@
 1. Dr Strange (2016)	10/10
 1. Moana (2016)	8/10
 1. Storks 8/40
+1. A Street Cat Named Bob (2016)	8.5/10
 
 
 # Games
