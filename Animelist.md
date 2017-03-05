@@ -15,6 +15,7 @@
 1. Akiba's Trip The Animation 8
 1. Tales of Zestiria the X S2 : 8(20)
 2. Nanbaka - 16
+1. One Piece : 779
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -38,7 +39,6 @@
 1. Makai Ouji: Devils and Realist : 2
 1. Mobile Suit Gundam: Iron-Blooded Orphans : 2
 1. Norn9: Norn+Nonet : 2
-1. One Piece : 778
 1. Onsen Yousei Hakone-chan : 2
 1. Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite GetsSareta Ken : 1
 1. Ore Monogatari!! : 8
