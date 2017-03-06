@@ -10,10 +10,9 @@
 1. Youjo Senki 8 + 1sepcial (ep 6,5)
 3. Seiren - 05
 1. Fuuka 8
-1. Okusama ga Seitokaichou 3
 1. Little Witch Academia 8
 1. Akiba's Trip The Animation 8
-1. Tales of Zestiria the X S2 : 8(20)
+1. Tales of Zestiria the X S2 : 9(21)
 2. Nanbaka - 16
 1. One Piece : 779
 
@@ -69,6 +68,7 @@
 1. Akame ga Kill! : 24
 1. Akatsuki no Yona : 24
 1. Amagi Brilliant Park : 13
+1. Amaama to Inazuma 12
 1. Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai! : 1
 1. Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. : 11
 1. Ano Natsu de Matteru : 12
@@ -236,6 +236,7 @@
 1. Overlord: Ple Ple Pleiades : 8
 1. Owari no Seraph : 12
 1. Okusama ga Seitokaichou
+1. Okusama ga Seitokaichou 12 + Ova
 1. Okusama ga Seitokaichou 2nd Season
 1. Plastic Memories : 13
 1. Pokemon the Movie XY: Ring no Choumajin Hoopa : 1
