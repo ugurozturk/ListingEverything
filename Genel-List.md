@@ -18,6 +18,7 @@
 2. Planet Earth - 2
 1. Missing Nine - 8
 1. The Walking Dead S07E12 
+1. Legion S01E05
 
 
 ## Plan to Watch TV Series
@@ -66,6 +67,7 @@
 1. Passengers
 1. Crazy Stupid Love 2011
 1. Deepwater Horizon 7/10
+1. Sing (2016)
 
 # Games
 [Playing](#playing)  
