@@ -17,6 +17,7 @@
 1. Fringe 1. Sezon 8.Bölüm
 2. Planet Earth - 2
 1. Missing Nine - 8
+1. The Walking Dead S07E12 
 
 
 ## Plan to Watch TV Series
