@@ -15,10 +15,10 @@
 1. Tales of Zestiria the X S2 : 9(21)
 2. Nanbaka - 16
 1. One Piece : 779
+1. Donten ni Warau : 7
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
-1. Donten ni Warau : 1
 1. Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi : 2
 1. Fairy Tail (2014) : 24
 1. Gintama : 33

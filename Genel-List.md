@@ -63,7 +63,8 @@
 1. A Street Cat Named Bob (2016)	8.5/10
 1. The Internet's Own Boy: The Story Of Aaron Swartz
 1. Passengers
-
+1. Crazy Stupid Love 2011
+1. Deepwater Horizon 7/10
 
 # Games
 [Playing](#playing)  
