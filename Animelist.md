@@ -127,6 +127,7 @@
 1. Date A Live II : 10
 1. Deadman Wonderland : 12
 1. Death Note : 37
+1. Days : 24
 1. Detroit Metal City : 12
 1. Detroit Metal City: Birth of the Metal Devil : 1
 1. Devil May Cry : 12
