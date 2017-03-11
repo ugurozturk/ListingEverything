@@ -68,6 +68,7 @@
 1. Crazy Stupid Love 2011
 1. Deepwater Horizon 7/10
 1. Sing (2016)
+1. Assassin Creed
 
 # Games
 [Playing](#playing)  
