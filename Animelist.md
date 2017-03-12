@@ -5,7 +5,7 @@
 
 ## Watching Animes
 1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 09
-1. Ao no Exorcist Kyoto Fujouou-hen 9
+1. Ao no Exorcist Kyoto Fujouou-hen 10
 1. Masamune-kun no Revenge 8. Bölüm
 1. Youjo Senki 9 + 1sepcial (ep 6,5)
 3. Seiren - 05
@@ -286,6 +286,7 @@
 1. Tonari no Kaibutsu-kun: Tonari no Gokudou-kun : 1
 1. Tonari no Seki-kun : 21
 1. Tonari no Seki-kun OVA : 1
+1. Taimadou Gakuen 35 Shiken Shoutai 12
 1. Triage X : 10
 1. Trinity Seven : 12
 1. Vampire Knight : 13
