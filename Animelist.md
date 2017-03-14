@@ -16,7 +16,7 @@
 2. Nanbaka - 16
 1. One Piece : 779
 1. Donten ni Warau : 7
-1. GoSick 5. Bölüm
+1. GoSick 11. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -54,6 +54,7 @@
 
 
 ## Watched Animes
+1. 91 Days 8/10
 1. Ajin
 1. Musaigen no Phantom World : 13
 1. Boku no Hero Academia 13
