@@ -4,19 +4,18 @@
 [Plan to watch](#plan-to-watch-animes)  
 
 ## Watching Animes
-1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 09
 1. Ao no Exorcist Kyoto Fujouou-hen 10
 1. Masamune-kun no Revenge 8. Bölüm
 1. Youjo Senki 9 + 1sepcial (ep 6,5)
 3. Seiren - 05
 1. Fuuka 8
 1. Little Witch Academia 10
-1. Akiba's Trip The Animation 10
+1. Akiba's Trip The Animation 11
 1. Tales of Zestiria the X S2 : 9(21)
 2. Nanbaka - 16
 1. One Piece : 779
 1. Donten ni Warau : 7
-1. GoSick 11. Bölüm
+1. GoSick 17. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -188,6 +187,7 @@
 1. Saijaku Muhai no Bahamut : 12
 1. Kono Subarashii Sekai ni Shukufuku wo! : 10
 1. Kono Subarashii Sekai ni Shukufuku wo! OVA : 1
+1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 10
 1. Kore wa Zombie Desu ka? : 12
 1. Koutetsujou no Kabaneri : 12
 1. Kuroko no Basket : 25
