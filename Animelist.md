@@ -10,7 +10,7 @@
 1. Youjo Senki 9 + 1sepcial (ep 6,5)
 3. Seiren - 05
 1. Fuuka 8
-1. Little Witch Academia 9
+1. Little Witch Academia 10
 1. Akiba's Trip The Animation 10
 1. Tales of Zestiria the X S2 : 9(21)
 2. Nanbaka - 16
