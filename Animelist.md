@@ -15,7 +15,6 @@
 2. Nanbaka - 16
 1. One Piece : 779
 1. Donten ni Warau : 7
-1. GoSick 17. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -156,6 +155,7 @@
 1. GJ-bu : 12
 1. Gokukoku no Brynhildr : 13
 1. Golden Boy : 6
+1. GoSick 24. Bölüm
 1. Great Teacher Onizuka : 43
 1. Guilty Crown : 22
 1. Hai to Gensou no Grimgar : 12
