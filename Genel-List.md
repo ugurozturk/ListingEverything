@@ -80,5 +80,6 @@
 1. Ryse.Son.of.Rome
 2. The Wither 3
 3. Tomb Raider (2013)
+1. Rise of the Tomb Raider (2015)
 4. COD Serisi + COD IW
 ## Plant to Play

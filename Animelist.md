@@ -14,7 +14,6 @@
 1. Tales of Zestiria the X S2 : 9(21)
 2. Nanbaka - 16
 1. One Piece : 779
-1. Donten ni Warau : 7
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -138,6 +137,7 @@
 1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA : 1
 1. Durarara!! : 24
 1. Durarara!!x2 Shou : 12
+1. Donten ni Warau : 12 8/10
 1. Elfen Lied : 13
 1. Fairy Tail : 175
 1. Fate/stay night : 24
