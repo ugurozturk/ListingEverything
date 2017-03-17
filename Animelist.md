@@ -4,11 +4,11 @@
 [Plan to watch](#plan-to-watch-animes)  
 
 ## Watching Animes
-1. Ao no Exorcist Kyoto Fujouou-hen 10
+1. Ao no Exorcist Kyoto Fujouou-hen 11
 1. Masamune-kun no Revenge 8. Bölüm
 1. Youjo Senki 9 + 1sepcial (ep 6,5)
 3. Seiren - 05
-1. Fuuka 8
+1. Fuuka 11
 1. Little Witch Academia 10
 1. Akiba's Trip The Animation 11
 1. Tales of Zestiria the X S2 : 9(21)
