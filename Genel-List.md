@@ -49,6 +49,7 @@
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Kubo and the Two Strings
 2. Secret Life of pets
+1. Patriots Day 8/10
 3. Angry Birds
 4. Ex machina
 5. Pete's Dragon
