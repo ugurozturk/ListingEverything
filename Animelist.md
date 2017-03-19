@@ -14,7 +14,7 @@
 1. Tales of Zestiria the X S2 : 9(21)
 2. Nanbaka - 16
 1. One Piece : 779
-1. All Out 01
+1. All Out 15
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
