@@ -70,6 +70,7 @@
 1. Deepwater Horizon 7/10
 1. Sing (2016)
 1. Assassin Creed
+1. Rogue One 
 
 # Games
 [Playing](#playing)  

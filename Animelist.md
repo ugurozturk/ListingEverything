@@ -13,8 +13,8 @@
 1. Akiba's Trip The Animation 11
 1. Tales of Zestiria the X S2 : 9(21)
 2. Nanbaka - 16
-1. One Piece : 779
-1. All Out 15
+1. One Piece : 780
+1. All Out 23
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
