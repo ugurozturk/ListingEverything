@@ -301,6 +301,7 @@
 1. Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku : 13
 1. Yamada-kun to 7-nin no Majo (TV) : 12
 1. Yosuga no Sora: In Solitude, Where We Are Least Alone. : 12
+1. YURI!!! on ICE : 12
 1. Z/X: Ignition : 12
 1. Zankyou no Terror : 11
 1. Zero no Tsukaima : 13
@@ -362,7 +363,6 @@
 1. Shakugan no Shana III (Final) : 0
 1. SKET Dance : 0
 1. Utawarerumono : 0
-1. YURI!!! on ICE : 0
 1. Zero no Tsukaima F : 0
 1. Zero no Tsukaima: Princesses no Rondo - Yuuwaku no Sunahama : 0
 1. Zero no Tsukaima: Princesses no Rondo Picture Drama : 0
