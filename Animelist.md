@@ -174,6 +174,7 @@
 1. High School DxD Specials : 6
 1. Highschool of the Dead : 12
 1. Highschool of the Dead: Drifters of the Dead : 1
+1. Hibike! Euphonium : 13 + 1 Ova
 1. Hunter x Hunter (2011) : 148
 1. Ichiban Ushiro no Daimaou : 12
 1. Iketeru Futari : 16
