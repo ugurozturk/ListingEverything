@@ -12,7 +12,6 @@
 1. Little Witch Academia 10
 1. Akiba's Trip The Animation 11
 1. Tales of Zestiria the X S2 : 9(21)
-2. Nanbaka - 16
 1. One Piece : 780
 1. All Out 23
 
@@ -218,6 +217,7 @@
 1. Monogatari Series: Second Season : 26
 1. Motto To LOVE-Ru : 12
 1. Nanatsu no Taizai : 24
+1. Nanbaka - 25 (Sezon 1 ve 2)
 1. Naruto : 220
 1. Nekomonogatari: Kuro : 4
 1. Nisekoi : 20
