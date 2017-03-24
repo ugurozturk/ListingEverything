@@ -5,15 +5,14 @@
 
 ## Watching Animes
 1. Ao no Exorcist Kyoto Fujouou-hen 11
-1. Masamune-kun no Revenge 8. Bölüm
-1. Youjo Senki 10 + 1sepcial (ep 6,5)
+1. Youjo Senki 11 + 1sepcial (ep 6,5)
 3. Seiren - 05
-1. Fuuka 11
 1. Little Witch Academia 10
 1. Akiba's Trip The Animation 11
 1. Tales of Zestiria the X S2 : 9(21)
 1. One Piece : 780
-1. All Out 23
+1. All Out 24
+1. Sousei no Onmyouji : 24
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -44,7 +43,6 @@
 1. Shokugeki no Souma: Ni no Sara : 8
 1. Shoujo-tachi wa Kouya wo Mezasu : 1
 1. Shuffle! : 11
-1. Sousei no Onmyouji : 24
 1. Subete ga F ni Naru: The Perfect Insider : 1
 1. Utawarerumono: Itsuwari no Kamen : 4
 4. Maji de Watashi ni Koi Shinasai 05
@@ -142,6 +140,7 @@
 1. Fairy Tail : 175
 1. Fate/stay night : 24
 1. Free! : 12
+1. Fuuka 12 4/10
 1. Fullmetal Alchemist : 51
 1. Fullmetal Alchemist: Brotherhood : 64
 1. Gakusen Toshi Asterisk : 12
@@ -372,3 +371,6 @@
 
 ## Dropped
 1. Captain Earth : 5
+
+## On Hold
+1. Masamune-kun no Revenge 8. Bölüm (Sezon 2 yi bekle)
