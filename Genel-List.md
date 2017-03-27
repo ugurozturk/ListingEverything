@@ -18,7 +18,7 @@
 2. Planet Earth - 2
 1. Missing Nine - 8
 1. The Walking Dead S07E12 
-1. Legion S01E05
+1. Legion S01E07
 
 
 ## Plan to Watch TV Series
