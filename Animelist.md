@@ -8,7 +8,6 @@
 1. Youjo Senki 11 + 1sepcial (ep 6,5)
 3. Seiren - 05
 1. Little Witch Academia 10
-1. Akiba's Trip The Animation 11
 1. Tales of Zestiria the X S2 : 9(21)
 1. One Piece : 781
 1. All Out 24
@@ -64,6 +63,7 @@
 1. Afro Samurai: Resurrection : 1
 1. Akame ga Kill! : 24
 1. Akatsuki no Yona : 24
+1. Akiba's Trip The Animation 13
 1. Amagi Brilliant Park : 13
 1. Amaama to Inazuma 12
 1. Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai! : 1
