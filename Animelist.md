@@ -10,7 +10,7 @@
 1. Little Witch Academia 10
 1. Tales of Zestiria the X S2 : 9(21)
 1. One Piece : 781
-1. All Out 24
+1. All Out 25
 1. Sousei no Onmyouji : 24
 
 1. Akagami no Shirayuki-hime 2nd Season 1
