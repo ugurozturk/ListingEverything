@@ -5,13 +5,13 @@
 
 ## Watching Animes
 1. Ao no Exorcist Kyoto Fujouou-hen 11
-1. Youjo Senki 11 + 1sepcial (ep 6,5)
 3. Seiren - 05
 1. Little Witch Academia 10
 1. Tales of Zestiria the X S2 : 9(21)
 1. One Piece : 781
-1. All Out 25
 1. Sousei no Onmyouji : 24
+1. Shingeki no Kyojin Season 2 1. Bölüm
+1. Boku no Hero Academia 2nd Season 1. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -82,6 +82,7 @@
 1. Arslan Senki (TV) : 25
 1. Asa made Jugyou Chu! : 1
 1. Asu no Yoichi! : 12
+1. All Out 25
 1. Bakemono no Ko : 1
 1. Bakemonogatari : 15
 1. Barakamon : 12
@@ -302,6 +303,7 @@
 1. Yamada-kun to 7-nin no Majo (TV) : 12
 1. Yosuga no Sora: In Solitude, Where We Are Least Alone. : 12
 1. YURI!!! on ICE : 12
+1. Youjo Senki 12 + 1sepcial (ep 6,5)
 1. Z/X: Ignition : 12
 1. Zankyou no Terror : 11
 1. Zero no Tsukaima : 13
