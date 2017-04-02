@@ -8,10 +8,11 @@
 3. Seiren - 05
 1. Little Witch Academia 10
 1. Tales of Zestiria the X S2 : 9(21)
-1. One Piece : 781
+1. One Piece : 782
 1. Sousei no Onmyouji : 24
 1. Shingeki no Kyojin Season 2 1. Bölüm
 1. Boku no Hero Academia 2nd Season 1. Bölüm
+1. Gin no Guardian 1. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
