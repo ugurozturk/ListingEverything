@@ -8,11 +8,16 @@
 3. Seiren - 05
 1. Little Witch Academia 10
 1. Tales of Zestiria the X S2 : 9(21)
-1. One Piece : 782
+1. One Piece : 783
 1. Sousei no Onmyouji : 24
 1. Shingeki no Kyojin Season 2 1. Bölüm
 1. Boku no Hero Academia 2nd Season 1. Bölüm
 1. Gin no Guardian 1. Bölüm
+1. Baruto 1. Bölüm
+1. Oushitsu Kyoushi Haine 1. Bölüm
+1. Tsugumomo 1. Bölüm
+1. Busou Shoujo Machiavellianism 1. Bölüm
+1. Eromanga-sensei 1. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Cross Ange: Tenshi to Ryuu no Rondo : 8
@@ -187,6 +192,7 @@
 1. Kiss x Sis (TV) : 12
 1. Kiznaiver	12	8/10
 1. Saijaku Muhai no Bahamut : 12
+1. Kobayashi-san Chi no Maid Dragon : 13
 1. Kono Subarashii Sekai ni Shukufuku wo! : 10
 1. Kono Subarashii Sekai ni Shukufuku wo! OVA : 1
 1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 10
