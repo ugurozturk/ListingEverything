@@ -11,11 +11,11 @@
 1. One Piece : 783
 1. Sousei no Onmyouji : 24
 1. Shingeki no Kyojin Season 2 1. Bölüm
-1. Boku no Hero Academia 2nd Season 1. Bölüm
+1. Boku no Hero Academia 2nd Season 2. Bölüm
 1. Gin no Guardian 2. Bölüm
 1. Baruto 1. Bölüm
 1. Oushitsu Kyoushi Haine 1. Bölüm
-1. Tsugumomo 1. Bölüm
+1. Tsugumomo 2. Bölüm
 1. Busou Shoujo Machiavellianism 1. Bölüm
 1. Eromanga-sensei 1. Bölüm
 1. Quan Zhi Gao Shou 2. Bölüm
