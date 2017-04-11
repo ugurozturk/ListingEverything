@@ -86,7 +86,7 @@
 1. Ao no Exorcist: Kuro no Iede : 1
 1. Ao no Exorcist: Ura Ex : 10
 1. Ao no Kanata no Four Rhythm : 12
-1. Aoharu x Kikanjuu : 12
+1. Aoharu x Kikanjuu : 13
 1. Arslan Senki (TV) : 25
 1. Asa made Jugyou Chu! : 1
 1. Asu no Yoichi! : 12
