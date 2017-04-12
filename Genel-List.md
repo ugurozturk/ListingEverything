@@ -20,7 +20,7 @@
 1. The Walking Dead S07E16
 1. Legion S01E07
 1. Strong Woman Do Bong Soon 14.Bölüm
-
+1. The Liar and His Lover 8.Bölüm
 
 ## Plan to Watch TV Series
 ## Watched TV Series
