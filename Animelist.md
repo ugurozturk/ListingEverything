@@ -3,6 +3,13 @@
 [Watched](#watched-animes)  
 [Plan to watch](#plan-to-watch-animes)  
 
+## Sıralama
+1 - Natsume Yuujinchou
+2 - Zoku Natsume Yuujinchou
+3 - Natsume Yuujinchou San
+4 - Natsume Yuujinchou Shi
+5 - Natsume Yuujinchou Go
+
 ## Watching Animes
 1. Ao no Exorcist Kyoto Fujouou-hen 11
 3. Seiren - 05
@@ -23,7 +30,6 @@
 1. Rokudenashi Majutsu Koushi to Akashic Records 2. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
-1. Cross Ange: Tenshi to Ryuu no Rondo : 8
 1. Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi : 2
 1. Fairy Tail (2014) : 24
 1. Gintama : 33
@@ -127,6 +133,7 @@
 1. Code Geass: Hangyaku no Lelouch : 25
 1. Code Geass: Hangyaku no Lelouch R2 : 25
 1. Comet Lucifer : 12
+1. Cross Ange: Tenshi to Ryuu no Rondo : 25
 1. Dagashi Kashi : 12
 1. Dakara Boku wa, H ga Dekinai. : 12
 1. Dareka no Manazashi : 1
