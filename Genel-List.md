@@ -72,6 +72,7 @@
 1. Sing (2016)
 1. Assassin Creed
 1. Rogue One 
+1. WarGames (1983) 10/10
 
 # Games
 [Playing](#playing)  
