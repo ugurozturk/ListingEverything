@@ -15,18 +15,18 @@
 3. Seiren - 05
 1. Little Witch Academia 10
 1. Tales of Zestiria the X S2 : 9(21)
-1. One Piece : 783
+1. One Piece : 784
 1. Sousei no Onmyouji : 24
 1. Shingeki no Kyojin Season 2 1. Bölüm
-1. Boku no Hero Academia 2nd Season 2. Bölüm
+1. Boku no Hero Academia 2nd Season 3. Bölüm
 1. Gin no Guardian 2. Bölüm
 1. Baruto 2. Bölüm
 1. Oushitsu Kyoushi Haine 2. Bölüm
 1. Tsugumomo 2. Bölüm
 1. Busou Shoujo Machiavellianism 1. Bölüm
-1. Eromanga-sensei 1. Bölüm
+1. Eromanga-sensei 2. Bölüm
 1. Quan Zhi Gao Shou 2. Bölüm
-1. Re-Creators 01. Bölüm
+1. Re-Creators 02. Bölüm
 1. Rokudenashi Majutsu Koushi to Akashic Records 2. Bölüm
 1. Sin: Nanatsu no Taizai 1. Bölüm
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 1. Bölüm
