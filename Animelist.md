@@ -11,15 +11,14 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
-1. Ao no Exorcist Kyoto Fujouou-hen 11
-3. Seiren - 05
+3. Seiren - 07
 1. Little Witch Academia 10
-1. Tales of Zestiria the X S2 : 9(21)
+1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
 1. One Piece : 784
 1. Sousei no Onmyouji : 24
 1. Shingeki no Kyojin Season 2 1. Bölüm
 1. Boku no Hero Academia 2nd Season 3. Bölüm
-1. Gin no Guardian 2. Bölüm
+1. Gin no Guardian 3. Bölüm
 1. Baruto 2. Bölüm
 1. Oushitsu Kyoushi Haine 2. Bölüm
 1. Tsugumomo 2. Bölüm
@@ -94,6 +93,7 @@
 1. Ao no Exorcist Movie : 1
 1. Ao no Exorcist: Kuro no Iede : 1
 1. Ao no Exorcist: Ura Ex : 10
+1. Ao no Exorcist Kyoto Fujouou-hen 12
 1. Ao no Kanata no Four Rhythm : 12
 1. Aoharu x Kikanjuu : 13
 1. Arslan Senki (TV) : 25
