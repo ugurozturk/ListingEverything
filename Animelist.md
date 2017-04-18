@@ -21,14 +21,15 @@
 1. Gin no Guardian 3. Bölüm
 1. Baruto 2. Bölüm
 1. Oushitsu Kyoushi Haine 2. Bölüm
-1. Tsugumomo 2. Bölüm
+1. Tsugumomo 3. Bölüm
 1. Busou Shoujo Machiavellianism 1. Bölüm
 1. Eromanga-sensei 2. Bölüm
 1. Quan Zhi Gao Shou 2. Bölüm
 1. Re-Creators 02. Bölüm
-1. Rokudenashi Majutsu Koushi to Akashic Records 2. Bölüm
+1. Rokudenashi Majutsu Koushi to Akashic Records 3. Bölüm
 1. Sin: Nanatsu no Taizai 1. Bölüm
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 1. Bölüm
+1. Zero kara Hajimeru Mahou no Sho 2. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi : 2
