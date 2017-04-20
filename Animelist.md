@@ -21,7 +21,7 @@
 1. Baruto 3. Bölüm
 1. Oushitsu Kyoushi Haine 3. Bölüm
 1. Tsugumomo 3. Bölüm
-1. Busou Shoujo Machiavellianism 1. Bölüm
+1. Busou Shoujo Machiavellianism 3. Bölüm
 1. Eromanga-sensei 2. Bölüm
 1. Quan Zhi Gao Shou 2. Bölüm
 1. Re-Creators 02. Bölüm
