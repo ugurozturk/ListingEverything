@@ -11,23 +11,24 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
-1. Little Witch Academia 10
-1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
-1. One Piece : 784
-1. Sousei no Onmyouji : 24
-1. Shingeki no Kyojin Season 2 1. Bölüm
-1. Boku no Hero Academia 2nd Season 3. Bölüm
-1. Gin no Guardian 3. Bölüm
 1. Baruto 3. Bölüm
-1. Oushitsu Kyoushi Haine 3. Bölüm
-1. Tsugumomo 3. Bölüm
+1. Boku no Hero Academia 2nd Season 3. Bölüm
 1. Busou Shoujo Machiavellianism 3. Bölüm
+1. Clockwork Planet 3.Bölüm
+1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 1. Bölüm
 1. Eromanga-sensei 2. Bölüm
+1. Gin no Guardian 3. Bölüm
+1. Little Witch Academia 15
+1. One Piece : 784
+1. Oushitsu Kyoushi Haine 3. Bölüm
 1. Quan Zhi Gao Shou 2. Bölüm
 1. Re-Creators 02. Bölüm
 1. Rokudenashi Majutsu Koushi to Akashic Records 3. Bölüm
+1. Shingeki no Kyojin Season 2 1. Bölüm
 1. Sin: Nanatsu no Taizai 1. Bölüm
-1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 1. Bölüm
+1. Sousei no Onmyouji : 24
+1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
+1. Tsugumomo 3. Bölüm
 1. Zero kara Hajimeru Mahou no Sho 2. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
@@ -51,8 +52,8 @@
 1. Mobile Suit Gundam: Iron-Blooded Orphans : 2
 1. Norn9: Norn+Nonet : 2
 1. Onsen Yousei Hakone-chan : 2
-1. Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite GetsSareta Ken : 1
 1. Ore Monogatari!! : 8
+1. Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite GetsSareta Ken : 1
 1. Pokemon XY : 7
 1. Psycho-Pass : 8
 1. Shokugeki no Souma: Ni no Sara : 8
@@ -64,24 +65,21 @@
 
 
 ## Watched Animes
-1. 91 Days 8/10
-1. Ajin
-1. Musaigen no Phantom World : 13
-1. Boku no Hero Academia 13
-2. Ajin Season 2
 1. 11eyes : 12
+1. 91 Days 8/10
 1. Accel World : 24
-1. B-gata H-kei : 12
-1. Boku dake ga Inai Machi : 12
-1. Akatsuki no Yona OVA : 3
 1. Afro Samurai : 5
 1. Afro Samurai Movie : 1
 1. Afro Samurai: Resurrection : 1
+1. Ajin
+1. Ajin Season 2
 1. Akame ga Kill! : 24
 1. Akatsuki no Yona : 24
+1. Akatsuki no Yona OVA : 3
 1. Akiba's Trip The Animation 13
-1. Amagi Brilliant Park : 13
+1. All Out 25
 1. Amaama to Inazuma 12
+1. Amagi Brilliant Park : 13
 1. Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai! : 1
 1. Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. : 11
 1. Ano Natsu de Matteru : 12
@@ -90,21 +88,19 @@
 1. Ansatsu Kyoushitsu (TV) : 22
 1. Ao Haru Ride : 12
 1. Ao no Exorcist : 25
+1. Ao no Exorcist Kyoto Fujouou-hen 12
 1. Ao no Exorcist Movie : 1
 1. Ao no Exorcist: Kuro no Iede : 1
 1. Ao no Exorcist: Ura Ex : 10
-1. Ao no Exorcist Kyoto Fujouou-hen 12
 1. Ao no Kanata no Four Rhythm : 12
 1. Aoharu x Kikanjuu : 13
 1. Arslan Senki (TV) : 25
 1. Asa made Jugyou Chu! : 1
 1. Asu no Yoichi! : 12
-1. All Out 25
+1. B-gata H-kei : 12
 1. Bakemono no Ko : 1
 1. Bakemonogatari : 15
 1. Barakamon : 12
-1. Bungou Stray Dogs	12	9/10
-1. Bungou Stray Dogs 2nd Season	12	9/10
 1. Bayonetta: Bloody Fate : 1
 1. Beelzebub : 60
 1. Bikini Warriors : 12
@@ -122,7 +118,11 @@
 1. Bleach: The Sealed Sword Frenzy : 1
 1. Blood Lad : 10
 1. Bloodivores : 12
+1. Boku dake ga Inai Machi : 12
+1. Boku no Hero Academia 13
 1. Btooom! : 12
+1. Bungou Stray Dogs	12	9/10
+1. Bungou Stray Dogs 2nd Season	12	9/10
 1. Busou Shinki : 12
 1. Captain Harlock : 1
 1. Charlotte : 13
@@ -141,39 +141,39 @@
 1. Dareka no Manazashi : 1
 1. Date A Live : 12
 1. Date A Live II : 10
+1. Days : 24
 1. Deadman Wonderland : 12
 1. Death Note : 37
-1. Days : 24
 1. Detroit Metal City : 12
 1. Detroit Metal City: Birth of the Metal Devil : 1
 1. Devil May Cry : 12
 1. Devil Survivor 2 The Animation : 13
-1. Drifters : 12
 1. Dimension W : 12
+1. Donten ni Warau : 12 8/10
+1. Drifters : 12
 1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka : 13
 1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA : 1
 1. Durarara!! : 24
 1. Durarara!!x2 Shou : 12
-1. Donten ni Warau : 12 8/10
 1. Elfen Lied : 13
 1. Fairy Tail : 175
 1. Fate/stay night : 24
 1. Free! : 12
-1. Fuuka 12 4/10
 1. Fullmetal Alchemist : 51
 1. Fullmetal Alchemist: Brotherhood : 64
+1. Fuuka 12 4/10
+1. GJ-bu : 12
 1. Gakusen Toshi Asterisk : 12
 1. Gakusen Toshi Asterisk S2 : 12
 1. Gangsta. : 12
-1. Gate: Jieitai Kanochi nite, Kaku Tatakaeri : 12
 1. Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season : 12
+1. Gate: Jieitai Kanochi nite, Kaku Tatakaeri : 12
 1. Gekkan Shoujo Nozaki-kun : 12
 1. Genshiken Nidaime : 13
 1. Gin no Saji : 11
-1. GJ-bu : 12
+1. GoSick 24. Bölüm
 1. Gokukoku no Brynhildr : 13
 1. Golden Boy : 6
-1. GoSick 24. Bölüm
 1. Great Teacher Onizuka : 43
 1. Guilty Crown : 22
 1. Hai to Gensou no Grimgar : 12
@@ -183,45 +183,40 @@
 1. Hamatora The Animation : 12
 1. Hataraku Maou-sama! : 13
 1. Hellsing : 13
-1. Nejimaki Seirei Senki Tenkyou no Alderamin	13	10/10
 1. Hellsing Ultimate : 10
+1. Hibike! Euphonium : 13 + 1 Ova
 1. High School DxD : 12
 1. High School DxD BorN : 12
 1. High School DxD New : 12
 1. High School DxD Specials : 6
 1. Highschool of the Dead : 12
 1. Highschool of the Dead: Drifters of the Dead : 1
-1. Hibike! Euphonium : 13 + 1 Ova
 1. Hunter x Hunter (2011) : 148
+1. IS: Infinite Stratos : 12
 1. Ichiban Ushiro no Daimaou : 12
 1. Iketeru Futari : 16
-1. IS: Infinite Stratos : 12
 1. Isshuukan Friends. : 12
 1. Kamisama no Inai Nichiyoubi : 12
 1. Kill la Kill : 24
 1. Kiseijuu: Sei no Kakuritsu : 24
-1. Kiss x Sis : 12
 1. Kiss x Sis (TV) : 12
+1. Kiss x Sis : 12
 1. Kiznaiver	12	8/10
-1. Saijaku Muhai no Bahamut : 12
-1. Seiren - 12
 1. Kobayashi-san Chi no Maid Dragon : 13
+1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 10
 1. Kono Subarashii Sekai ni Shukufuku wo! : 10
 1. Kono Subarashii Sekai ni Shukufuku wo! OVA : 1
-1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 10
 1. Kore wa Zombie Desu ka? : 12
 1. Koutetsujou no Kabaneri : 12
-1. Kuroko no Basket : 25
-1. Ushio to Tora (TV) : 26	7/10
-1. Ushio to Tora (TV) 2nd Season :	13	7/10
 1. Kuroko no Basket 2nd Season : 25
 1. Kuroko no Basket 3rd Season : 25
-1. Log Horizon : 25
+1. Kuroko no Basket : 25
 1. Log Horizon 2nd Season : 25
+1. Log Horizon : 25
 1. Madan no Ou to Vanadis : 13
+1. Magi: Sinbad no Bouken 13
 1. Magi: The Kingdom of Magic : 25
 1. Magi: The Labyrinth of Magic : 25
-1. Magi: Sinbad no Bouken 13
 1. Mahouka Koukou no Rettousei : 26
 1. Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! : 6
 1. Maken-Ki! : 12
@@ -229,26 +224,31 @@
 1. Maken-Ki! Specials : 6
 1. Maken-Ki! Two : 10
 1. Mangaka-san to Assistant-san to The Animation : 12
-1. Masou Gakuen HxH : 12
 1. Masou Gakuen HxH - Special: 1
+1. Masou Gakuen HxH : 12
 1. Military! : 12
 1. Mirai Nikki (TV) : 26
 1. Mob Psycho 100 : 12
 1. Monogatari Series: Second Season : 26
 1. Motto To LOVE-Ru : 12
+1. Musaigen no Phantom World : 13
 1. Nanatsu no Taizai : 24
 1. Nanbaka - 25 (Sezon 1 ve 2)
 1. Naruto : 220
+1. Nejimaki Seirei Senki Tenkyou no Alderamin	13	10/10
 1. Nekomonogatari: Kuro : 4
 1. Nisekoi : 20
 1. Nisekoi OVA : 3
 1. Nisekoi: : 12
-1. Noragami : 12
-1. Noragami Aragoto : 13 + 2 Ova	8/10
 1. Nisemonogatari : 11
 1. No Game No Life : 12
 1. No Game No Life Specials : 6
+1. Noragami : 12
+1. Noragami Aragoto : 13 + 2 Ova	8/10
 1. Nozo x Kimi : 3
+1. Okusama ga Seitokaichou
+1. Okusama ga Seitokaichou 12 + Ova
+1. Okusama ga Seitokaichou 2nd Season
 1. One Piece Movie 1 : 1
 1. One Piece Movie 2: Nejimaki-jima no Daibouken : 1
 1. One Piece Movie 3: Chinjuu-jima no Chopper Oukoku : 1
@@ -260,9 +260,6 @@
 1. Overlord : 13
 1. Overlord: Ple Ple Pleiades : 8
 1. Owari no Seraph : 12
-1. Okusama ga Seitokaichou
-1. Okusama ga Seitokaichou 12 + Ova
-1. Okusama ga Seitokaichou 2nd Season
 1. Plastic Memories : 13
 1. Pokemon the Movie XY: Ring no Choumajin Hoopa : 1
 1. Princess Lover! : 12
@@ -273,11 +270,13 @@
 1. Robotics;Notes : 22
 1. Rokka no Yuusha : 12
 1. Saenai Heroine no Sodatekata : 12
+1. Saijaku Muhai no Bahamut : 12
 1. Sakamoto desu ga? : 12
 1. Sakasama no Patema : 1
 1. Sakurasou no Pet na Kanojo : 24
 1. Samurai Champloo : 26
 1. Sankarea : 12
+1. Seiren - 12
 1. Shigatsu wa Kimi no Uso : 22
 1. Shigatsu wa Kimi no Uso: Moments : 1
 1. Shingeki no Bahamut: Genesis : 12
@@ -297,6 +296,7 @@
 1. Sword Art Online II : 24
 1. Sword Art Online: Extra Edition : 1
 1. Sword Art Online: Sword Art Offline : 9
+1. Taimadou Gakuen 35 Shiken Shoutai 12
 1. Tales of Zestiria the X : 12
 1. The Last: Naruto the Movie : 1
 1. To LOVE-Ru : 26
@@ -310,19 +310,20 @@
 1. Tonari no Kaibutsu-kun: Tonari no Gokudou-kun : 1
 1. Tonari no Seki-kun : 21
 1. Tonari no Seki-kun OVA : 1
-1. Taimadou Gakuen 35 Shiken Shoutai 12
 1. Triage X : 10
 1. Trinity Seven : 12
+1. Ushio to Tora (TV) : 26	7/10
+1. Ushio to Tora (TV) 2nd Season :	13	7/10
 1. Vampire Knight : 13
 1. Vampire Knight Guilty : 13
 1. Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! : 12
 1. Witch Craft Works : 12
 1. Wizard Barristers: Benmashi Cecil : 12
+1. YURI!!! on ICE : 12
 1. Yahari Ore no Seishun Love Comedy wa Machigatteiru. : 13
 1. Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku : 13
 1. Yamada-kun to 7-nin no Majo (TV) : 12
 1. Yosuga no Sora: In Solitude, Where We Are Least Alone. : 12
-1. YURI!!! on ICE : 12
 1. Youjo Senki 12 + 1sepcial (ep 6,5)
 1. Z/X: Ignition : 12
 1. Zankyou no Terror : 11
