@@ -21,7 +21,7 @@
 1. Little Witch Academia 15
 1. One Piece : 784
 1. Oushitsu Kyoushi Haine 3. Bölüm
-1. Quan Zhi Gao Shou 2. Bölüm
+1. Quan Zhi Gao Shou 3. Bölüm
 1. Re-Creators 02. Bölüm
 1. Rokudenashi Majutsu Koushi to Akashic Records 3. Bölüm
 1. Shingeki no Kyojin Season 2 1. Bölüm
@@ -43,7 +43,7 @@
 1. Jinsei : 1
 1. K: Return of Kings : 1
 1. Kaichou wa Maid-sama! : 1
-1. Kamisama Hajimemashita : 8
+1. Kamisama Hajimemashita : 11
 1. Kenzen Robo Daimidaler : 2
 1. Love Lab : 4
 1. Luck & Logic : 1
