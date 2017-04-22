@@ -1,5 +1,5 @@
 #### Table of Contents
-[Anime](https://github.com/ugurozturk/ListingEverything/wiki/Animelist)  
+[Anime](https://github.com/ugurozturk/ListingEverything/blob/master/Animelist.md)  
 [TV Shows](#tv-shows)  
 [Movies](#movies)  
 [Games](#games)  

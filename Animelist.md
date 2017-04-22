@@ -11,8 +11,9 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
+1. Absolute Duo 4. Bölüm
 1. Baruto 3. Bölüm
-1. Boku no Hero Academia 2nd Season 3. Bölüm
+1. Boku no Hero Academia 2nd Season 4. Bölüm
 1. Busou Shoujo Machiavellianism 3. Bölüm
 1. Clockwork Planet 3.Bölüm
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 1. Bölüm
@@ -25,7 +26,7 @@
 1. Re-Creators 02. Bölüm
 1. Rokudenashi Majutsu Koushi to Akashic Records 3. Bölüm
 1. Shingeki no Kyojin Season 2 1. Bölüm
-1. Sin: Nanatsu no Taizai 1. Bölüm
+1. Sin: Nanatsu no Taizai 2. Bölüm
 1. Sousei no Onmyouji : 24
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
 1. Tsugumomo 3. Bölüm
