@@ -28,6 +28,7 @@
 1. Shingeki no Kyojin Season 2 1. Bölüm
 1. Sin: Nanatsu no Taizai 2. Bölüm
 1. Sousei no Onmyouji : 24
+1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 2. Bölüm
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
 1. Tsugumomo 3. Bölüm
 1. Zero kara Hajimeru Mahou no Sho 2. Bölüm
