@@ -17,13 +17,13 @@
 1. Busou Shoujo Machiavellianism 3. Bölüm
 1. Clockwork Planet 3.Bölüm
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 1. Bölüm
-1. Eromanga-sensei 2. Bölüm
-1. Gin no Guardian 3. Bölüm
+1. Eromanga-sensei 3. Bölüm
+1. Gin no Guardian 4. Bölüm
 1. Little Witch Academia 15
-1. One Piece : 784
+1. One Piece : 785
 1. Oushitsu Kyoushi Haine 3. Bölüm
 1. Quan Zhi Gao Shou 3. Bölüm
-1. Re-Creators 02. Bölüm
+1. Re-Creators 03. Bölüm
 1. Rokudenashi Majutsu Koushi to Akashic Records 3. Bölüm
 1. Shingeki no Kyojin Season 2 1. Bölüm
 1. Sin: Nanatsu no Taizai 2. Bölüm
