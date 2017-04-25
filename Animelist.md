@@ -11,12 +11,12 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
-1. Absolute Duo 4. Bölüm
+1. Absolute Duo 10. Bölüm
 1. Baruto 3. Bölüm
 1. Boku no Hero Academia 2nd Season 4. Bölüm
 1. Busou Shoujo Machiavellianism 3. Bölüm
 1. Clockwork Planet 3.Bölüm
-1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 1. Bölüm
+1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 2. Bölüm
 1. Eromanga-sensei 3. Bölüm
 1. Gin no Guardian 4. Bölüm
 1. Little Witch Academia 15
@@ -30,8 +30,8 @@
 1. Sousei no Onmyouji : 24
 1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 2. Bölüm
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
-1. Tsugumomo 3. Bölüm
-1. Zero kara Hajimeru Mahou no Sho 2. Bölüm
+1. Tsugumomo 4. Bölüm
+1. Zero kara Hajimeru Mahou no Sho 3. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi : 2
