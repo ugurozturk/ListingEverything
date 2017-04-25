@@ -11,7 +11,6 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
-1. Absolute Duo 10. Bölüm
 1. Baruto 3. Bölüm
 1. Boku no Hero Academia 2nd Season 4. Bölüm
 1. Busou Shoujo Machiavellianism 3. Bölüm
@@ -69,6 +68,7 @@
 ## Watched Animes
 1. 11eyes : 12
 1. 91 Days 8/10
+1. Absolute Duo 12. Bölüm
 1. Accel World : 24
 1. Afro Samurai : 5
 1. Afro Samurai Movie : 1
