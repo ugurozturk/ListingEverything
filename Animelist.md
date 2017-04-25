@@ -23,7 +23,7 @@
 1. Oushitsu Kyoushi Haine 3. Bölüm
 1. Quan Zhi Gao Shou 4. Bölüm
 1. Re-Creators 03. Bölüm
-1. Rokudenashi Majutsu Koushi to Akashic Records 3. Bölüm
+1. Rokudenashi Majutsu Koushi to Akashic Records 4. Bölüm
 1. Shingeki no Kyojin Season 2 4. Bölüm
 1. Sin: Nanatsu no Taizai 2. Bölüm
 1. Sousei no Onmyouji : 24
@@ -90,7 +90,7 @@
 1. Ansatsu Kyoushitsu (TV) : 22
 1. Ao Haru Ride : 12
 1. Ao no Exorcist : 25
-1. Ao no Exorcist Kyoto Fujouou-hen 12
+1. Ao no Exorcist Kyoto Fujouou-hen 12 + OVA
 1. Ao no Exorcist Movie : 1
 1. Ao no Exorcist: Kuro no Iede : 1
 1. Ao no Exorcist: Ura Ex : 10
