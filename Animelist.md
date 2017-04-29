@@ -11,23 +11,24 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
-1. Baruto 3. Bölüm
+1. Baruto 4. Bölüm
 1. Boku no Hero Academia 2nd Season 4. Bölüm
-1. Busou Shoujo Machiavellianism 3. Bölüm
-1. Clockwork Planet 3.Bölüm
+1. Busou Shoujo Machiavellianism 4. Bölüm
+1. Clockwork Planet 4.Bölüm
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 2. Bölüm
 1. Eromanga-sensei 3. Bölüm
 1. Gin no Guardian 4. Bölüm
+1. Granblue Fantasy The Animation 4. Bölüm
 1. Little Witch Academia 15
 1. One Piece : 785
-1. Oushitsu Kyoushi Haine 3. Bölüm
+1. Oushitsu Kyoushi Haine 4. Bölüm
 1. Quan Zhi Gao Shou 4. Bölüm
 1. Re-Creators 03. Bölüm
 1. Rokudenashi Majutsu Koushi to Akashic Records 4. Bölüm
 1. Shingeki no Kyojin Season 2 4. Bölüm
-1. Sin: Nanatsu no Taizai 2. Bölüm
+1. Sin: Nanatsu no Taizai 3. Bölüm
 1. Sousei no Onmyouji : 24
-1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 2. Bölüm
+1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 3. Bölüm
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
 1. Tsugumomo 4. Bölüm
 1. Zero kara Hajimeru Mahou no Sho 3. Bölüm
