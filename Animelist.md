@@ -12,10 +12,10 @@
 
 ## Watching Animes
 1. Baruto 4. Bölüm
-1. Boku no Hero Academia 2nd Season 4. Bölüm
+1. Boku no Hero Academia 2nd Season 5. Bölüm
 1. Busou Shoujo Machiavellianism 4. Bölüm
 1. Clockwork Planet 4.Bölüm
-1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 2. Bölüm
+1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 3. Bölüm
 1. Eromanga-sensei 3. Bölüm
 1. Gin no Guardian 4. Bölüm
 1. Granblue Fantasy The Animation 4. Bölüm
@@ -233,6 +233,7 @@
 1. Mirai Nikki (TV) : 26
 1. Mob Psycho 100 : 12
 1. Monogatari Series: Second Season : 26
+1. Momo e no Tegami
 1. Motto To LOVE-Ru : 12
 1. Musaigen no Phantom World : 13
 1. Nanatsu no Taizai : 24
