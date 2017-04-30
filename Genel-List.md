@@ -47,31 +47,32 @@
 
 ## Plan to Watch Movies
 ## Watched Movies
-1. Fantastic Beasts And Where To Find Them (2016)	8/10
-1. Kubo and the Two Strings
-2. Secret Life of pets
-1. Patriots Day 8/10
-3. Angry Birds
-4. Ex machina
-5. Pete's Dragon
-6. Star Trek Beyond
-7. Neighbors
-8. Neighbors 2
-9. The Man Who Knew Infinity
-10. Love For A Thousand More
-11. Bounty.Hunters
-1. UnderWorld 5 seriside
-1. Dr Strange (2016)	10/10
-1. Moana (2016)	8/10
-1. Storks 8/40
 1. A Street Cat Named Bob (2016)	8.5/10
-1. The Internet's Own Boy: The Story Of Aaron Swartz
-1. Passengers
+1. Angry Birds
+1. Assassin Creed
+1. Bounty.Hunters
 1. Crazy Stupid Love 2011
 1. Deepwater Horizon 7/10
-1. Sing (2016)
-1. Assassin Creed
+1. Dr Strange (2016)	10/10
+1. Ex machina
+1. Fantastic Beasts And Where To Find Them (2016)	8/10
+1. Hacker
+1. Kubo and the Two Strings
+1. Love For A Thousand More
+1. Moana (2016)	8/10
+1. Neighbors
+1. Neighbors 2
+1. Passengers
+1. Patriots Day 8/10
+1. Pete's Dragon
 1. Rogue One 
+1. Secret Life of pets
+1. Sing (2016)
+1. Star Trek Beyond
+1. Storks 8/40
+1. The Internet's Own Boy: The Story Of Aaron Swartz
+1. The Man Who Knew Infinity
+1. UnderWorld 5 seriside
 1. WarGames (1983) 10/10
 
 # Games
@@ -81,9 +82,9 @@
 
 ## Playing
 ## Completed Games
-1. Ryse.Son.of.Rome
-2. The Wither 3
-3. Tomb Raider (2013)
+1. COD Serisi + COD IW
 1. Rise of the Tomb Raider (2015)
-4. COD Serisi + COD IW
+1. Ryse.Son.of.Rome
+1. The Wither 3
+1. Tomb Raider (2013)
 ## Plant to Play
