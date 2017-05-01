@@ -19,7 +19,7 @@
 1. Eromanga-sensei 4. Bölüm
 1. Gin no Guardian 5. Bölüm
 1. Granblue Fantasy The Animation 4. Bölüm
-1. Little Witch Academia 15
+1. Little Witch Academia 16
 1. One Piece : 785
 1. Oushitsu Kyoushi Haine 4. Bölüm
 1. Quan Zhi Gao Shou 4. Bölüm
