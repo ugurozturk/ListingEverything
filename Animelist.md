@@ -12,7 +12,7 @@
 
 ## Watching Animes
 1. Baruto 4. Bölüm
-1. Boku no Hero Academia 2nd Season 5. Bölüm + Ova
+1. Boku no Hero Academia 2nd Season 6. Bölüm + Ova
 1. Busou Shoujo Machiavellianism 4. Bölüm
 1. Clockwork Planet 4.Bölüm
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 3. Bölüm
@@ -22,12 +22,12 @@
 1. Little Witch Academia 16
 1. One Piece : 785
 1. Oushitsu Kyoushi Haine 5. Bölüm
-1. Quan Zhi Gao Shou 4. Bölüm
+1. Quan Zhi Gao Shou 6. Bölüm
 1. Re-Creators 04. Bölüm
 1. Rokudenashi Majutsu Koushi to Akashic Records 5. Bölüm
 1. Shingeki no Kyojin Season 2 4. Bölüm
 1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 3. Bölüm
-1. Sin: Nanatsu no Taizai 3. Bölüm
+1. Sin: Nanatsu no Taizai 4. Bölüm
 1. Sousei no Onmyouji : 24
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
 1. Tsugumomo 4. Bölüm
