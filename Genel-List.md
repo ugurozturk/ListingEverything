@@ -19,7 +19,6 @@
 1. Missing Nine - 8
 1. The Walking Dead S07E16
 1. Legion S01E07
-1. Strong Woman Do Bong Soon 14.Bölüm
 1. The Liar and His Lover 8.Bölüm
 
 ## Plan to Watch TV Series
@@ -28,17 +27,18 @@
 
 
 ## Watched Asian TV Series
+1. A Man Called God
+1. Boys over Flowers
 1. Bubblegum
 1. Goblin
-2. Personel Taste
-3. Train to Busan (2016)
-4. Boys over Flowers
-5. My Boss is a Hero
-6. The Heirs
-7. A Man Called God
-1. Legend of the blue sea
-1. Weightlifting Fairy Kim Bok-joo
 1. Hwarang: The Beginning 20
+1. Legend of the blue sea
+1. My Boss is a Hero
+1. Personel Taste
+1. Strong Woman Do Bong Soon 16.Bölüm
+1. The Heirs
+1. Train to Busan (2016)
+1. Weightlifting Fairy Kim Bok-joo
 
 
 # Movies
