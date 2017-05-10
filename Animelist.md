@@ -21,17 +21,17 @@
 1. Granblue Fantasy The Animation 5. Bölüm
 1. Little Witch Academia 16
 1. One Piece : 785
-1. Oushitsu Kyoushi Haine 5. Bölüm
+1. Oushitsu Kyoushi Haine 6. Bölüm
 1. Quan Zhi Gao Shou 6. Bölüm
 1. Re-Creators 04. Bölüm
-1. Rokudenashi Majutsu Koushi to Akashic Records 5. Bölüm
+1. Rokudenashi Majutsu Koushi to Akashic Records 6. Bölüm
 1. Shingeki no Kyojin Season 2 4. Bölüm
 1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 3. Bölüm
 1. Sin: Nanatsu no Taizai 4. Bölüm
 1. Sousei no Onmyouji : 24
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
 1. Tsugumomo 4. Bölüm
-1. Zero kara Hajimeru Mahou no Sho 3. Bölüm
+1. Zero kara Hajimeru Mahou no Sho 5. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi : 2
