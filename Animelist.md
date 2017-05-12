@@ -14,8 +14,8 @@
 1. Baruto 4. Bölüm
 1. Boku no Hero Academia 2nd Season 6. Bölüm + Ova
 1. Busou Shoujo Machiavellianism 4. Bölüm
-1. Clockwork Planet 4.Bölüm
-1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 3. Bölüm
+1. Clockwork Planet 6.Bölüm
+1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 5. Bölüm
 1. Eromanga-sensei 5. Bölüm
 1. Gin no Guardian 5. Bölüm
 1. Granblue Fantasy The Animation 5. Bölüm
