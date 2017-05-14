@@ -28,6 +28,7 @@
 
 ## Watched Asian TV Series
 1. A Man Called God
+1. Beautiful Gong Shim
 1. Boys over Flowers
 1. Bubblegum
 1. Goblin
