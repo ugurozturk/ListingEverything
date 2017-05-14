@@ -12,17 +12,17 @@
 
 ## Watching Animes
 1. Baruto 4. Bölüm
-1. Boku no Hero Academia 2nd Season 6. Bölüm + Ova
+1. Boku no Hero Academia 2nd Season 7. Bölüm + Ova
 1. Busou Shoujo Machiavellianism 4. Bölüm
 1. Clockwork Planet 6.Bölüm
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 5. Bölüm
 1. Eromanga-sensei 5. Bölüm
-1. Gin no Guardian 5. Bölüm
-1. Granblue Fantasy The Animation 5. Bölüm
+1. Gin no Guardian 7. Bölüm
+1. Granblue Fantasy The Animation 6. Bölüm
 1. Little Witch Academia 16
 1. One Piece : 785
 1. Oushitsu Kyoushi Haine 6. Bölüm
-1. Quan Zhi Gao Shou 6. Bölüm
+1. Quan Zhi Gao Shou 7. Bölüm
 1. Re-Creators 04. Bölüm
 1. Rokudenashi Majutsu Koushi to Akashic Records 6. Bölüm
 1. Shingeki no Kyojin Season 2 4. Bölüm
