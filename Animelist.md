@@ -16,7 +16,7 @@
 1. Busou Shoujo Machiavellianism 4. Bölüm
 1. Clockwork Planet 6.Bölüm
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 5. Bölüm
-1. Eromanga-sensei 5. Bölüm
+1. Eromanga-sensei 6. Bölüm
 1. Gin no Guardian 7. Bölüm
 1. Granblue Fantasy The Animation 6. Bölüm
 1. Little Witch Academia 16
