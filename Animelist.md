@@ -55,7 +55,7 @@
 1. Norn9: Norn+Nonet : 2
 1. Onsen Yousei Hakone-chan : 2
 1. Ore Monogatari!! : 8
-1. Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite GetsSareta Ken : 1
+1. Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets Sareta Ken : 1
 1. Pokemon XY : 7
 1. Psycho-Pass : 8
 1. Shokugeki no Souma: Ni no Sara : 8
