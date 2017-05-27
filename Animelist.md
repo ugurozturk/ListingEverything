@@ -11,9 +11,9 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
-1. Baruto 4. Bölüm
+1. Baruto 5. Bölüm
 1. Boku no Hero Academia 2nd Season 8. Bölüm + Ova
-1. Busou Shoujo Machiavellianism 4. Bölüm
+1. Busou Shoujo Machiavellianism 5. Bölüm
 1. Clockwork Planet 7.Bölüm
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 6. Bölüm
 1. Eromanga-sensei 7. Bölüm
