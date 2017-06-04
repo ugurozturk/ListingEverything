@@ -63,6 +63,7 @@
 1. Kubo and the Two Strings
 1. Love For A Thousand More
 1. Moana (2016)	8/10
+1. My Secret Romance
 1. Neighbors
 1. Neighbors 2
 1. Passengers
