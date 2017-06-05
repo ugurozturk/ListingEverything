@@ -21,6 +21,7 @@
 1. Legion S01E07
 1. The Liar and His Lover 8.Bölüm
 1. You are too much E19
+1. Suspicious Partner E16
 
 ## Plan to Watch TV Series
 ## Watched TV Series
