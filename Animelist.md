@@ -22,7 +22,7 @@
 1. Little Witch Academia 16
 1. One Piece : 789
 1. Oushitsu Kyoushi Haine 6. Bölüm
-1. Quan Zhi Gao Shou 9. Bölüm
+1. Quan Zhi Gao Shou 10. Bölüm
 1. Re-Creators 04. Bölüm
 1. Rokudenashi Majutsu Koushi to Akashic Records 8. Bölüm
 1. Shingeki no Kyojin Season 2 4. Bölüm
