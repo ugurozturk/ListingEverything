@@ -31,7 +31,7 @@
 1. Sousei no Onmyouji : 24
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
 1. Tsugumomo 4. Bölüm
-1. Zero kara Hajimeru Mahou no Sho 6. Bölüm
+1. Zero kara Hajimeru Mahou no Sho 9. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi : 2
