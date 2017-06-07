@@ -22,6 +22,7 @@
 1. The Liar and His Lover 8.Bölüm
 1. You are too much E19
 1. Suspicious Partner E16
+1. Ruler Master of the Mask E05
 
 ## Plan to Watch TV Series
 ## Watched TV Series
