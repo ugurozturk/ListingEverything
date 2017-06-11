@@ -27,7 +27,7 @@
 1. Rokudenashi Majutsu Koushi to Akashic Records 10. Bölüm
 1. Shingeki no Kyojin Season 2 4. Bölüm
 1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 3. Bölüm
-1. Sin: Nanatsu no Taizai 5. Bölüm
+1. Sin: Nanatsu no Taizai 7. Bölüm
 1. Sousei no Onmyouji : 24
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
 1. Tsugumomo 4. Bölüm

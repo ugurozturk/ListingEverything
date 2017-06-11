@@ -20,7 +20,7 @@
 1. Lucifer : 2.Sezon 13. Bölüm (Kış Finali verdi)
 1. Missing Nine - 8
 1. Ruler Master of the Mask E20
-1. Suspicious Partner E16
+1. Suspicious Partner E20
 1. The Liar and His Lover 8.Bölüm
 1. The Walking Dead S07E16
 1. You are too much E19
