@@ -13,17 +13,18 @@
 [Watched TV Series](#watched-tv-series)  
 
 ## Watching Tv Series
-1. Lucifer : 2.Sezon 13. Bölüm (Kış Finali verdi)
-1. Fringe 1. Sezon 8.Bölüm
-2. Planet Earth - 2
-1. Missing Nine - 8
-1. The Walking Dead S07E16
-1. Legion S01E07
-1. The Liar and His Lover 8.Bölüm
-1. You are too much E19
-1. Suspicious Partner E16
-1. Ruler Master of the Mask E20
 1. Fight My Way E06
+1. Fringe 1. Sezon 8.Bölüm
+1. Genius S01E04
+1. Legion S01E07
+1. Lucifer : 2.Sezon 13. Bölüm (Kış Finali verdi)
+1. Missing Nine - 8
+1. Ruler Master of the Mask E20
+1. Suspicious Partner E16
+1. The Liar and His Lover 8.Bölüm
+1. The Walking Dead S07E16
+1. You are too much E19
+2. Planet Earth - 2
 
 ## Plan to Watch TV Series
 ## Watched TV Series
