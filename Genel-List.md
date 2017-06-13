@@ -23,8 +23,8 @@
 1. Suspicious Partner E20
 1. The Liar and His Lover 8.Bölüm
 1. The Walking Dead S07E16
-1. You are too much E19
-2. Planet Earth - 2
+1. You are too much E24
+1. Planet Earth - 2
 
 ## Plan to Watch TV Series
 ## Watched TV Series
