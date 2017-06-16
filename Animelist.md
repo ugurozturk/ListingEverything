@@ -13,7 +13,7 @@
 ## Watching Animes
 1. Baruto 5. Bölüm
 1. Boku no Hero Academia 2nd Season 11. Bölüm + Ova
-1. Busou Shoujo Machiavellianism 9. Bölüm
+1. Busou Shoujo Machiavellianism 11. Bölüm (10. bölüm atlandı)
 1. Clockwork Planet 10.Bölüm
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 9. Bölüm
 1. Eromanga-sensei 10. Bölüm
@@ -21,7 +21,7 @@
 1. Granblue Fantasy The Animation 8. Bölüm
 1. Little Witch Academia 16
 1. One Piece : 792
-1. Oushitsu Kyoushi Haine 10
+1. Oushitsu Kyoushi Haine 11
 1. Quan Zhi Gao Shou 11. Bölüm
 1. Re-Creators 04. Bölüm
 1. Rokudenashi Majutsu Koushi to Akashic Records 11. Bölüm
