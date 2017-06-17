@@ -98,4 +98,5 @@
 1. Ryse.Son.of.Rome
 1. The Wither 3
 1. Tomb Raider (2013)
+1. Dishonored
 ## Plant to Play
