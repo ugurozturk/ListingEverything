@@ -33,6 +33,7 @@
 1. Tsugumomo 4. Bölüm
 1. Zero kara Hajimeru Mahou no Sho 9. Bölüm
 
+1. Kyoukai no Kanata 2. Bölüm
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi : 2
 1. Fairy Tail (2014) : 24
@@ -40,7 +41,7 @@
 1. God Eater : 8
 1. Grisaia no Kajitsu : 5
 1. Grisaia no Rakuen : 3
-1. Gugure! Kokkuri-san : 2
+1. Gugure! Kokkuri-san : 6
 1. Inou-Battle wa Nichijou-kei no Naka de : 1
 1. Jinsei : 1
 1. K: Return of Kings : 1
