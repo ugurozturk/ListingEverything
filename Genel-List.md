@@ -76,9 +76,10 @@
 1. Rogue One 
 1. Secret Life of pets
 1. Sing (2016)
+1. Snowden (2016)
+1. Split (2016)
 1. Star Trek Beyond
 1. Storks 8/40
-1. Split (2016)
 1. The Internet's Own Boy: The Story Of Aaron Swartz
 1. The Man Who Knew Infinity
 1. The Pirate Bay Away From Keyboard
