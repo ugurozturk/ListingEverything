@@ -20,18 +20,16 @@
 1. Gin no Guardian 8. Bölüm
 1. Granblue Fantasy The Animation 8. Bölüm
 1. Little Witch Academia 16
-1. One Piece : 792
+1. One Piece : 793
 1. Oushitsu Kyoushi Haine 11
-1. Quan Zhi Gao Shou 11. Bölüm
 1. Re-Creators 04. Bölüm
-1. Rokudenashi Majutsu Koushi to Akashic Records 11. Bölüm
 1. Shingeki no Kyojin Season 2 4. Bölüm
 1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 3. Bölüm
 1. Sin: Nanatsu no Taizai 7. Bölüm
 1. Sousei no Onmyouji : 24
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
 1. Tsugumomo 4. Bölüm
-1. Zero kara Hajimeru Mahou no Sho 9. Bölüm
+1. Zero kara Hajimeru Mahou no Sho 11. Bölüm
 
 1. Kyoukai no Kanata 2. Bölüm
 1. Akagami no Shirayuki-hime 2nd Season 1
@@ -233,8 +231,8 @@
 1. Military! : 12
 1. Mirai Nikki (TV) : 26
 1. Mob Psycho 100 : 12
-1. Monogatari Series: Second Season : 26
 1. Momo e no Tegami
+1. Monogatari Series: Second Season : 26
 1. Motto To LOVE-Ru : 12
 1. Musaigen no Phantom World : 13
 1. Nanatsu no Taizai : 24
@@ -270,10 +268,12 @@
 1. Princess Lover! : 12
 1. Prison School : 12
 1. Prison School OVA : 1
+1. Quan Zhi Gao Shou 12. Bölüm
 1. Rakudai Kishi no Cavalry : 12
 1. Re:Zero kara Hajimeru Isekai Seikatsu : 25
 1. Robotics;Notes : 22
 1. Rokka no Yuusha : 12
+1. Rokudenashi Majutsu Koushi to Akashic Records 12. Bölüm
 1. Saenai Heroine no Sodatekata : 12
 1. Saijaku Muhai no Bahamut : 12
 1. Sakamoto desu ga? : 12
@@ -317,8 +317,8 @@
 1. Tonari no Seki-kun OVA : 1
 1. Triage X : 10
 1. Trinity Seven : 12
-1. Ushio to Tora (TV) : 26	7/10
 1. Ushio to Tora (TV) 2nd Season :	13	7/10
+1. Ushio to Tora (TV) : 26	7/10
 1. Vampire Knight : 13
 1. Vampire Knight Guilty : 13
 1. Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! : 12
