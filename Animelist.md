@@ -16,7 +16,6 @@
 1. Busou Shoujo Machiavellianism 11. Bölüm (10. bölüm atlandı)
 1. Clockwork Planet 10.Bölüm
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 9. Bölüm
-1. Eromanga-sensei 10. Bölüm
 1. Gin no Guardian 8. Bölüm
 1. Granblue Fantasy The Animation 8. Bölüm
 1. Little Witch Academia 16
@@ -158,6 +157,7 @@
 1. Durarara!! : 24
 1. Durarara!!x2 Shou : 12
 1. Elfen Lied : 13
+1. Eromanga-sensei 12. Bölüm
 1. Fairy Tail : 175
 1. Fate/stay night : 24
 1. Free! : 12
