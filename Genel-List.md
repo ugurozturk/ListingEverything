@@ -100,5 +100,6 @@
 1. Ryse.Son.of.Rome
 1. The Wither 3
 1. Tomb Raider (2013)
+1. Torchlight 2
 1. Dishonored
 ## Plan to Play
