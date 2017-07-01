@@ -15,7 +15,6 @@
 1. Boku no Hero Academia 2nd Season 11. Bölüm + Ova
 1. Busou Shoujo Machiavellianism 11. Bölüm (10. bölüm atlandı)
 1. Clockwork Planet 10.Bölüm
-1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 9. Bölüm
 1. Gin no Guardian 8. Bölüm
 1. Granblue Fantasy The Animation 8. Bölüm
 1. Little Witch Academia 16
@@ -152,6 +151,7 @@
 1. Dimension W : 12
 1. Donten ni Warau : 12 8/10
 1. Drifters : 12
+1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 12. Bölüm
 1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka : 13
 1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA : 1
 1. Durarara!! : 24
