@@ -17,7 +17,6 @@
 1. Fringe 1. Sezon 8.Bölüm
 1. Genius S01E04
 1. Legion S01E07
-1. Lucifer : 2.Sezon 17. Bölüm
 1. Missing Nine - 8
 1. Ruler Master of the Mask E20
 1. Suspicious Partner E20
@@ -28,6 +27,8 @@
 
 ## Plan to Watch TV Series
 ## Watched TV Series
+1. Lost
+1. Lucifer : 2.Sezon 18. Bölüm
 1. WestWorld (Dizi)
 
 
@@ -46,6 +47,7 @@
 1. The Heirs
 1. Train to Busan (2016)
 1. Weightlifting Fairy Kim Bok-joo
+1. Pinocchio
 
 
 # Movies
