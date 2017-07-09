@@ -37,6 +37,7 @@
 1. Beautiful Gong Shim
 1. Boys over Flowers
 1. Bubblegum
+1. Cunning Single Lady
 1. Goblin
 1. Healer
 1. Hwarang: The Beginning 20
