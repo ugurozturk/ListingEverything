@@ -12,7 +12,7 @@
 
 ## Watching Animes
 1. Baruto 5. Bölüm
-1. Boku no Hero Academia 2nd Season 11. Bölüm + Ova
+1. Boku no Hero Academia 2nd Season 14. Bölüm + Ova
 1. Busou Shoujo Machiavellianism 11. Bölüm (10. bölüm atlandı)
 1. Clockwork Planet 10.Bölüm
 1. Gin no Guardian 8. Bölüm
@@ -21,7 +21,6 @@
 1. One Piece : 793
 1. Oushitsu Kyoushi Haine 11
 1. Re-Creators 04. Bölüm
-1. Shingeki no Kyojin Season 2 4. Bölüm
 1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 3. Bölüm
 1. Sin: Nanatsu no Taizai 7. Bölüm
 1. Sousei no Onmyouji : 24
@@ -286,6 +285,7 @@
 1. Shigatsu wa Kimi no Uso: Moments : 1
 1. Shingeki no Bahamut: Genesis : 12
 1. Shingeki no Kyojin : 25
+1. Shingeki no Kyojin Season 2 12. Bölüm
 1. Shingeki no Kyojin OVA : 3
 1. Shinmai Maou no Testament : 12
 1. Shokugeki no Souma : 24
