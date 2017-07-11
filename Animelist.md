@@ -13,10 +13,9 @@
 ## Watching Animes
 1. Baruto 5. Bölüm
 1. Boku no Hero Academia 2nd Season 14. Bölüm + Ova
-1. Busou Shoujo Machiavellianism 11. Bölüm (10. bölüm atlandı)
-1. Clockwork Planet 10.Bölüm
 1. Gin no Guardian 8. Bölüm
 1. Granblue Fantasy The Animation 8. Bölüm
+1. Kakegurui 2. Bölüm
 1. Little Witch Academia 16
 1. One Piece : 793
 1. Oushitsu Kyoushi Haine 11
@@ -28,7 +27,6 @@
 1. Tsugumomo 4. Bölüm
 1. Zero kara Hajimeru Mahou no Sho 11. Bölüm
 
-1. Kyoukai no Kanata 2. Bölüm
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi : 2
 1. Fairy Tail (2014) : 24
@@ -43,9 +41,11 @@
 1. Kaichou wa Maid-sama! : 1
 1. Kamisama Hajimemashita : 11
 1. Kenzen Robo Daimidaler : 2
+1. Kyoukai no Kanata 2. Bölüm
 1. Love Lab : 4
 1. Luck & Logic : 1
 1. Magic Kaito 1412 : 1
+1. Maji de Watashi ni Koi Shinasai 05
 1. Makai Ouji: Devils and Realist : 2
 1. Mobile Suit Gundam: Iron-Blooded Orphans : 2
 1. Norn9: Norn+Nonet : 2
@@ -59,7 +59,6 @@
 1. Shuffle! : 11
 1. Subete ga F ni Naru: The Perfect Insider : 1
 1. Utawarerumono: Itsuwari no Kamen : 4
-4. Maji de Watashi ni Koi Shinasai 05
 
 
 ## Watched Animes
@@ -123,11 +122,13 @@
 1. Bungou Stray Dogs	12	9/10
 1. Bungou Stray Dogs 2nd Season	12	9/10
 1. Busou Shinki : 12
+1. Busou Shoujo Machiavellianism 12. Bölüm
 1. Captain Harlock : 1
 1. Charlotte : 13
 1. Clannad : 23
 1. Clannad: After Story : 24
 1. Claymore : 26
+1. Clockwork Planet 12.Bölüm
 1. Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita : 1
 1. Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu : 1
 1. Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu : 1
