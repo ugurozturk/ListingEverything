@@ -16,7 +16,7 @@
 1. Gin no Guardian 8. Bölüm
 1. Granblue Fantasy The Animation 8. Bölüm
 1. Kakegurui 2. Bölüm
-1. Little Witch Academia 16
+1. Little Witch Academia 18
 1. One Piece : 793
 1. Oushitsu Kyoushi Haine 11
 1. Re-Creators 04. Bölüm
