@@ -16,7 +16,6 @@
 1. Gin no Guardian 8. Bölüm
 1. Granblue Fantasy The Animation 8. Bölüm
 1. Kakegurui 2. Bölüm
-1. Little Witch Academia 18
 1. One Piece : 793
 1. Oushitsu Kyoushi Haine 11
 1. Re-Creators 04. Bölüm
@@ -213,6 +212,7 @@
 1. Kuroko no Basket 2nd Season : 25
 1. Kuroko no Basket 3rd Season : 25
 1. Kuroko no Basket : 25
+1. Little Witch Academia 25
 1. Log Horizon 2nd Season : 25
 1. Log Horizon : 25
 1. Madan no Ou to Vanadis : 13
@@ -286,8 +286,8 @@
 1. Shigatsu wa Kimi no Uso: Moments : 1
 1. Shingeki no Bahamut: Genesis : 12
 1. Shingeki no Kyojin : 25
-1. Shingeki no Kyojin Season 2 12. Bölüm
 1. Shingeki no Kyojin OVA : 3
+1. Shingeki no Kyojin Season 2 12. Bölüm
 1. Shinmai Maou no Testament : 12
 1. Shokugeki no Souma : 24
 1. Sidonia no Kishi : 12
