@@ -13,7 +13,6 @@
 ## Watching Animes
 1. Baruto 5. Bölüm
 1. Boku no Hero Academia 2nd Season 14. Bölüm + Ova
-1. Gin no Guardian 8. Bölüm
 1. Granblue Fantasy The Animation 8. Bölüm
 1. Kakegurui 2. Bölüm
 1. One Piece : 793
@@ -171,6 +170,7 @@
 1. Gate: Jieitai Kanochi nite, Kaku Tatakaeri : 12
 1. Gekkan Shoujo Nozaki-kun : 12
 1. Genshiken Nidaime : 13
+1. Gin no Guardian 12. Bölüm
 1. Gin no Saji : 11
 1. GoSick 24. Bölüm
 1. Gokukoku no Brynhildr : 13

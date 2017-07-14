@@ -18,7 +18,6 @@
 1. Genius S01E04
 1. Legion S01E07
 1. Missing Nine - 8
-1. Ruler Master of the Mask E20
 1. Suspicious Partner E20
 1. The Liar and His Lover 8.Bölüm
 1. The Walking Dead S07E16
@@ -44,6 +43,7 @@
 1. Legend of the blue sea
 1. My Boss is a Hero
 1. Personel Taste
+1. Ruler Master of the Mask E40
 1. Strong Woman Do Bong Soon 16.Bölüm
 1. The Heirs
 1. Train to Busan (2016)
