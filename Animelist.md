@@ -16,14 +16,11 @@
 1. Granblue Fantasy The Animation 8. Bölüm
 1. Kakegurui 2. Bölüm
 1. One Piece : 793
-1. Oushitsu Kyoushi Haine 11
 1. Re-Creators 04. Bölüm
 1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 3. Bölüm
 1. Sin: Nanatsu no Taizai 7. Bölüm
-1. Sousei no Onmyouji : 24
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
 1. Tsugumomo 4. Bölüm
-1. Zero kara Hajimeru Mahou no Sho 11. Bölüm
 
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi : 2
@@ -260,6 +257,7 @@
 1. One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima : 1
 1. One Piece Movie 7: Karakuri-jou no Mecha Kyohei : 1
 1. One Punch Man : 12
+1. Oushitsu Kyoushi Haine 12
 1. Overlord : 13
 1. Overlord: Ple Ple Pleiades : 8
 1. Owari no Seraph : 12
@@ -333,10 +331,10 @@
 1. Youjo Senki 12 + 1sepcial (ep 6,5)
 1. Z/X: Ignition : 12
 1. Zankyou no Terror : 11
+1. Zero kara Hajimeru Mahou no Sho 12. Bölüm
 1. Zero no Tsukaima : 13
 1. Zero no Tsukaima: Futatsuki no Kishi : 12
 1. Zero no Tsukaima: Princesses no Rondo : 12
-
 
 ## Plan to Watch Animes
 1. Accel World EX : 0
@@ -378,8 +376,9 @@
 1. One Outs : 0
 1. One Punch Man 2 : 0
 1. RDG: Red Data Girl : 0
-1. Saint Seiya: The Lost Canvas - Meiou Shinwa : 0
+1. SKET Dance : 0
 1. Saint Seiya: The Lost Canvas - Meiou Shinwa 2 : 0
+1. Saint Seiya: The Lost Canvas - Meiou Shinwa : 0
 1. Sankarea OVA : 0
 1. Sankarea: Wagahai mo... Zombie de Aru... : 0
 1. School Days : 0
@@ -390,7 +389,6 @@
 1. Shakugan no Shana : 0
 1. Shakugan no Shana II (Second) : 0
 1. Shakugan no Shana III (Final) : 0
-1. SKET Dance : 0
 1. Utawarerumono : 0
 1. Zero no Tsukaima F : 0
 1. Zero no Tsukaima: Princesses no Rondo - Yuuwaku no Sunahama : 0
@@ -400,6 +398,7 @@
 
 ## Dropped
 1. Captain Earth : 5
+1. Sousei no Onmyouji : 24
 
 ## On Hold
 1. Masamune-kun no Revenge 8. Bölüm (Sezon 2 yi bekle)
