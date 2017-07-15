@@ -18,11 +18,12 @@
 1. Genius S01E04
 1. Legion S01E07
 1. Missing Nine - 8
+1. Planet Earth - 2
 1. Suspicious Partner E20
 1. The Liar and His Lover 8.Bölüm
 1. The Walking Dead S07E16
 1. You are too much E24
-1. Planet Earth - 2
+1. You're all surrounded E07
 
 ## Plan to Watch TV Series
 ## Watched TV Series
@@ -36,6 +37,7 @@
 1. Beautiful Gong Shim
 1. Boys over Flowers
 1. Bubblegum
+1. City Hunter
 1. Cunning Single Lady
 1. Goblin
 1. Healer

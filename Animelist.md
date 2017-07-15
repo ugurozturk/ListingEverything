@@ -11,12 +11,14 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
+1. 18if 01
 1. Baruto 5. Bölüm
-1. Boku no Hero Academia 2nd Season 14. Bölüm + Ova
+1. Boku no Hero Academia 2nd Season 15. Bölüm + Ova
 1. Granblue Fantasy The Animation 8. Bölüm
 1. Kakegurui 2. Bölüm
 1. One Piece : 793
 1. Re-Creators 04. Bölüm
+1. Shoukoku no Altair - 02
 1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 3. Bölüm
 1. Sin: Nanatsu no Taizai 7. Bölüm
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
