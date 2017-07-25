@@ -17,7 +17,7 @@
 1. Baruto 5. Bölüm
 1. Boku no Hero Academia 2nd Season 16. Bölüm + Ova
 1. Granblue Fantasy The Animation 8. Bölüm
-1. Kakegurui 3. Bölüm
+1. Kakegurui 4. Bölüm
 1. One Piece : 797
 1. Re-Creators 04. Bölüm
 1. Shoukoku no Altair - 02
