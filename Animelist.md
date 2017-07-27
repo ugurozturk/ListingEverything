@@ -12,6 +12,7 @@
 
 ## Watching Animes
 1. Gamers! 01
+1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 3. Bölüm
 
 1. 18if 02
 1. Baruto 5. Bölüm
