@@ -11,15 +11,15 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
-1. Gamers! 01
+1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 3. Bölüm
 
 1. 18if 02
 1. Baruto 5. Bölüm
 1. Boku no Hero Academia 2nd Season 16. Bölüm + Ova
 1. Granblue Fantasy The Animation 8. Bölüm
-1. Kakegurui 4. Bölüm
-1. One Piece : 797
+1. Kakegurui 5. Bölüm
+1. One Piece : 799
 1. Re-Creators 04. Bölüm
 1. Shoukoku no Altair - 02
 1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 3. Bölüm
@@ -208,7 +208,7 @@
 1. Kobayashi-san Chi no Maid Dragon : 13
 1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 10
 1. Kono Subarashii Sekai ni Shukufuku wo! : 10
-1. Kono Subarashii Sekai ni Shukufuku wo! OVA : 1
+1. Kono Subarashii Sekai ni Shukufuku wo! OVA : 2
 1. Kore wa Zombie Desu ka? : 12
 1. Koutetsujou no Kabaneri : 12
 1. Kuroko no Basket 2nd Season : 25
@@ -293,6 +293,7 @@
 1. Shingeki no Kyojin Season 2 12. Bölüm
 1. Shinmai Maou no Testament : 12
 1. Shokugeki no Souma : 24
+1. Shokugeki no Souma ni no sara Ova : 1
 1. Sidonia no Kishi : 12
 1. Sidonia no Kishi: Daikyuu Wakusei Seneki : 12
 1. Soredemo Sekai wa Utsukushii : 12
