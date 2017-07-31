@@ -65,6 +65,7 @@
 1. Assassin Creed
 1. Baby Boss
 1. Bounty.Hunters
+1. Bruce Almighty Aman Tanrım!
 1. Crazy Stupid Love 2011
 1. Deepwater Horizon 7/10
 1. Dr Strange (2016)	10/10
