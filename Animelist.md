@@ -13,7 +13,8 @@
 ## Watching Animes
 1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm
-1. Knight's & Magic 6. Bölüm
+1. Knight's & Magic 8. Bölüm
+1. Made in Abyss 1. Bölüm
 
 1. 18if 02
 1. Baruto 5. Bölüm

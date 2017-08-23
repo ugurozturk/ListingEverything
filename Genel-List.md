@@ -23,7 +23,6 @@
 1. The Liar and His Lover 8.Bölüm
 1. The Walking Dead S07E16
 1. You are too much E24
-1. You're all surrounded E07
 
 ## Plan to Watch TV Series
 ## Watched TV Series
@@ -52,7 +51,7 @@
 1. The Heirs
 1. Train to Busan (2016)
 1. Weightlifting Fairy Kim Bok-joo
-
+1. You're all surrounded E20
 
 # Movies
 [Plan to Watch Movies](#plan-to-watch-movies)  
