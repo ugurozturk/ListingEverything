@@ -89,7 +89,9 @@
 1. Star Trek Beyond
 1. Storks 8/40
 1. The Internet's Own Boy: The Story Of Aaron Swartz
+1. The Lost City Of Z
 1. The Man Who Knew Infinity
+1. The Mummy
 1. The Pirate Bay Away From Keyboard
 1. UnderWorld 5 seriside
 1. WarGames (1983) 10/10
