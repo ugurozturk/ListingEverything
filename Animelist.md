@@ -152,6 +152,7 @@
 1. Devil Survivor 2 The Animation : 13
 1. Dimension W : 12
 1. Donten ni Warau : 12 8/10
+1. Dragon Ball : 153
 1. Drifters : 12
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 12. Bölüm
 1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka : 13
