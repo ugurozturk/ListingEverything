@@ -13,12 +13,12 @@
 ## Watching Animes
 1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm
-1. Knight's & Magic 10. Bölüm
+1. Knight's & Magic 11. Bölüm
 1. Made in Abyss 8. Bölüm
 
 1. 18if 02
 1. Baruto 5. Bölüm
-1. Boku no Hero Academia 2nd Season 21. Bölüm + Ova
+1. Boku no Hero Academia 2nd Season 22. Bölüm + Ova
 1. Granblue Fantasy The Animation 8. Bölüm
 1. Kakegurui 5. Bölüm
 1. One Piece : 799
@@ -269,6 +269,7 @@
 1. Overlord : 13
 1. Overlord: Ple Ple Pleiades : 8
 1. Owari no Seraph : 12
+1. Owari no Seraph 2 : 12
 1. Plastic Memories : 13
 1. Pokemon the Movie XY: Ring no Choumajin Hoopa : 1
 1. Princess Lover! : 12
@@ -309,6 +310,7 @@
 1. Sword Art Online II : 24
 1. Sword Art Online: Extra Edition : 1
 1. Sword Art Online: Sword Art Offline : 9
+1. Sword Art Online: Ordinal Scale : 1
 1. Taimadou Gakuen 35 Shiken Shoutai 12
 1. Tales of Zestiria the X : 12
 1. The Last: Naruto the Movie : 1
