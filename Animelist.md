@@ -23,7 +23,7 @@
 1. Kakegurui 5. Bölüm
 1. One Piece : 799
 1. Re-Creators 04. Bölüm
-1. Shoukoku no Altair - 02
+1. Shoukoku no Altair - 04
 1. Shuumatsu Nani Shitemasuka Isogashii Desuka Sukutte Moratte Ii Desuka 3. Bölüm
 1. Sin: Nanatsu no Taizai 7. Bölüm
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
