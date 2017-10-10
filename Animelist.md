@@ -13,12 +13,11 @@
 ## Watching Animes
 1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm
-1. Knight's & Magic 11. Bölüm
 1. Made in Abyss 8. Bölüm
 
 1. 18if 02
 1. Baruto 5. Bölüm
-1. Boku no Hero Academia 2nd Season 22. Bölüm + Ova
+1. Boku no Hero Academia 2nd Season 24. Bölüm + Ova
 1. Granblue Fantasy The Animation 8. Bölüm
 1. Kakegurui 5. Bölüm
 1. One Piece : 799
@@ -208,6 +207,7 @@
 1. Kiss x Sis (TV) : 12
 1. Kiss x Sis : 12
 1. Kiznaiver	12	8/10
+1. Knight's & Magic 13. Bölüm
 1. Kobayashi-san Chi no Maid Dragon : 13
 1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 10
 1. Kono Subarashii Sekai ni Shukufuku wo! : 10

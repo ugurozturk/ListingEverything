@@ -62,6 +62,7 @@
 1. A Street Cat Named Bob (2016)	8.5/10
 1. Angry Birds
 1. Assassin Creed
+1. Anti Matter
 1. Baby Boss
 1. Bounty.Hunters
 1. Bruce Almighty Aman Tanrım!
@@ -73,6 +74,7 @@
 1. Hacker
 1. Johnny English (2003)
 1. Kubo and the Two Strings
+1. Kung Fu Yoga
 1. Love For A Thousand More
 1. Moana (2016)	8/10
 1. My Secret Romance
@@ -101,6 +103,7 @@
 # Games
 [Playing](#playing)  
 [Completed Games](#complated-games)  
+[Note Games](#note-games)
 
 
 ## Playing
@@ -113,3 +116,6 @@
 1. Torchlight 2
 1. Dishonored
 ## Plan to Play
+
+## NOTE Games
+Do not play Total War Series. You dont like it.
