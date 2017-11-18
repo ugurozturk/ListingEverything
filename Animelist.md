@@ -11,6 +11,8 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
+1. Kujira no Kora wa Sajou ni Utau 3. Bölüm
+1. Ballroom e Youkoso 16. Bölüm
 1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm
 1. Made in Abyss 8. Bölüm

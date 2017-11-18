@@ -24,10 +24,12 @@
 1. The Walking Dead S07E16
 1. You are too much E24
 
+1. Lucifer : 3.Sezon 7. Bölüm
+
 ## Plan to Watch TV Series
 ## Watched TV Series
 1. Lost
-1. Lucifer : 2.Sezon 18. Bölüm
+1. Lucifer : 3.Sezon 7. Bölüm
 1. WestWorld (Dizi)
 
 
