@@ -20,7 +20,6 @@
 1. Missing Nine - 8
 1. Planet Earth - 2
 1. Suspicious Partner E20
-1. The Liar and His Lover 8.Bölüm
 1. The Walking Dead S07E16
 1. You are too much E24
 
@@ -53,6 +52,7 @@
 1. Ruler Master of the Mask E40
 1. Strong Woman Do Bong Soon 16.Bölüm
 1. The Heirs
+1. The Liar and His Lover 16.Bölüm
 1. Train to Busan (2016)
 1. Weightlifting Fairy Kim Bok-joo
 1. You're all surrounded E20
