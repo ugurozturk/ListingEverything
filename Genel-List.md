@@ -19,7 +19,6 @@
 1. Legion S01E07
 1. Missing Nine - 8
 1. Planet Earth - 2
-1. Suspicious Partner E20
 1. The Walking Dead S07E16
 1. You are too much E24
 
@@ -30,6 +29,7 @@
 1. Lost
 1. Lucifer : 3.Sezon 7. Bölüm
 1. WestWorld (Dizi)
+1. Vikings S04E9 civarı
 
 
 ## Watched Asian TV Series
@@ -43,14 +43,18 @@
 1. Goblin
 1. Healer
 1. Hwarang: The Beginning 20
+1. Introverted Boss
 1. It's Okay It's Love
 1. Legend of the blue sea
 1. My Boss is a Hero
 1. My Love From Another Star
+1. My girlfriend is a gumiho
+1. My Sassy Girl
 1. Personel Taste
 1. Pinocchio
 1. Ruler Master of the Mask E40
 1. Strong Woman Do Bong Soon 16.Bölüm
+1. Suspicious Partner E40
 1. The Heirs
 1. The Liar and His Lover 16.Bölüm
 1. Train to Busan (2016)
