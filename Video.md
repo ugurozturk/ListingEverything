@@ -1,8 +1,9 @@
 # Video
 [Watching](#watching)  
-[Completed](#completed)  
+[Watched Tv Series](#watched-tv-series)  
+[Watched Asian](#watched-asian-tv-series)  
+[Watched Movies](#watched-movies)  
 [Plan to Watch](#plan-to-watch)  
-
 
 ## Watching
 1. Fight My Way E06
@@ -13,6 +14,13 @@
 1. Planet Earth - 2
 1. The Walking Dead S07E16
 1. You are too much E24
+
+## Watched Tv Series
+1. Lucifer : 7/10
+1. Lost
+1. Lucifer : Completed
+1. WestWorld (Dizi)
+1. Vikings S04E9 civarı
 
 ## Watched Asian TV Series
 1. A Man Called God
@@ -42,13 +50,6 @@
 1. Train to Busan (2016)
 1. Weightlifting Fairy Kim Bok-joo
 1. You're all surrounded E20
-
-## Completed
-1. Lucifer : 7/10
-1. Lost
-1. Lucifer : Completed
-1. WestWorld (Dizi)
-1. Vikings S04E9 civarı
 
 ## Watched Movies
 1. A Street Cat Named Bob (2016)	8.5/10
