@@ -1,15 +1,10 @@
-#### Table of Contents
-[Anime](https://github.com/ugurozturk/ListingEverything/blob/master/Animelist.md)  
-[TV Shows](#tv-shows)  
-[Movies](#movies)  
-[Games](#games)  
+# Video
+[Watching](#watching)  
+[Completed](#completed)  
+[Plan to Watch](#plan-to-watch)  
 
-# TV Shows
-[Watching Tv Series](#watching-tv-series)  
-[Plan to Watch TV Series](#plan-to-watch-tv-series)  
-[Watched TV Series](#watched-tv-series)  
 
-## Watching Tv Series
+## Watching
 1. Fight My Way E06
 1. Fringe 1. Sezon 8.Bölüm
 1. Genius S01E04
@@ -18,14 +13,6 @@
 1. Planet Earth - 2
 1. The Walking Dead S07E16
 1. You are too much E24
-
-## Plan to Watch TV Series
-## Watched TV Series
-1. Lost
-1. Lucifer : Completed
-1. WestWorld (Dizi)
-1. Vikings S04E9 civarı
-
 
 ## Watched Asian TV Series
 1. A Man Called God
@@ -56,11 +43,13 @@
 1. Weightlifting Fairy Kim Bok-joo
 1. You're all surrounded E20
 
-# Movies
-[Plan to Watch Movies](#plan-to-watch-movies)  
-[Watched Movies](#watched-movies)  
+## Completed
+1. Lucifer : 7/10
+1. Lost
+1. Lucifer : Completed
+1. WestWorld (Dizi)
+1. Vikings S04E9 civarı
 
-## Plan to Watch Movies
 ## Watched Movies
 1. A Street Cat Named Bob (2016)	8.5/10
 1. Angry Birds
@@ -104,22 +93,4 @@
 1. Who Am I
 1. xXx: Return of Xander Cage
 
-# Games
-[Playing](#playing)  
-[Completed Games](#complated-games)  
-[Note Games](#note-games)
-
-
-## Playing
-## Completed Games
-1. COD Serisi + COD IW
-1. Rise of the Tomb Raider (2015)
-1. Ryse.Son.of.Rome
-1. The Wither 3
-1. Tomb Raider (2013)
-1. Torchlight 2
-1. Dishonored
-## Plan to Play
-
-## NOTE Games
-Do not play Total War Series. You dont like it.
+## Plan To Watch
