@@ -16,7 +16,6 @@
 1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm
 1. Made in Abyss 8. Bölüm
-
 1. 18if 02
 1. Baruto 5. Bölüm
 1. Boku no Hero Academia 2nd Season 24. Bölüm + Ova
@@ -29,7 +28,6 @@
 1. Sin: Nanatsu no Taizai 7. Bölüm
 1. Tales of Zestiria the X S2 : 12(24) Son 1 Bölüm 29unda
 1. Tsugumomo 4. Bölüm
-
 1. Akagami no Shirayuki-hime 2nd Season 1
 1. Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi : 2
 1. Fairy Tail (2014) : 24
@@ -57,12 +55,10 @@
 1. Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets Sareta Ken : 1
 1. Pokemon XY : 7
 1. Psycho-Pass : 8
-
 1. Shoujo-tachi wa Kouya wo Mezasu : 1
 1. Shuffle! : 11
 1. Subete ga F ni Naru: The Perfect Insider : 1
 1. Utawarerumono: Itsuwari no Kamen : 4
-
 
 ## Watched Animes
 1. 11eyes : 12
