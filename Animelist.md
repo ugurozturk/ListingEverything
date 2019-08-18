@@ -57,7 +57,7 @@
 1. Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets Sareta Ken : 1
 1. Pokemon XY : 7
 1. Psycho-Pass : 8
-1. Shokugeki no Souma: Ni no Sara : 8
+
 1. Shoujo-tachi wa Kouya wo Mezasu : 1
 1. Shuffle! : 11
 1. Subete ga F ni Naru: The Perfect Insider : 1
@@ -300,6 +300,7 @@
 1. Shinmai Maou no Testament : 12
 1. Shokugeki no Souma : 24
 1. Shokugeki no Souma ni no sara Ova : 1
+1. Shokugeki no Souma S3: 24
 1. Sidonia no Kishi : 12
 1. Sidonia no Kishi: Daikyuu Wakusei Seneki : 12
 1. Soredemo Sekai wa Utsukushii : 12
