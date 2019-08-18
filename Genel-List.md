@@ -6,10 +6,10 @@
 [Novel](#novel)  
 
 # Manga
-1. OPM - 107
+1. OPM : 107 : 10/10
 
 # NOVEL
-1. The Strongest System : Completed
+1. [The Strongest System](https://the-strongest-system.fandom.com/wiki/The_Strongest_System_Wiki) : Completed : 6/10
 
 # TV Shows
 [Watching Tv Series](#watching-tv-series)  
