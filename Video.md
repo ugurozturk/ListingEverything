@@ -61,9 +61,10 @@
 1. Bruce Almighty Aman Tanrım!
 1. Crazy Stupid Love 2011
 1. Deepwater Horizon 7/10
-1. Dr Strange (2016)	10/10
+1. Dr Strange (2016) : 10/10
 1. [Enter the Warriors Gate](https://www.imdb.com/title/tt4652532/) : Completed : 9/10
 1. Ex machina
+1. [Edge of Tomorrow](http://www.beyazperde.com/filmler/film-185030/) : 10/10
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Hacker
 1. Johnny English (2003)
