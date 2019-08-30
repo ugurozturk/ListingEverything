@@ -78,7 +78,7 @@
 1. Passengers
 1. Patriots Day 8/10
 1. Pete's Dragon
-1. Pompeii
+1. [Pompeii](https://www.imdb.com/title/tt1921064/) : 7/10
 1. Rogue One 
 1. Secret Life of pets
 1. Sing (2016)
