@@ -69,7 +69,7 @@
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Hacker
 1. Johnny English (2003)
-1. [Just Go With It] (https://m.imdb.com/title/tt1564367/)
+1. [Just Go With It](https://m.imdb.com/title/tt1564367/)
 1. Kubo and the Two Strings
 1. Kung Fu Yoga
 1. Love For A Thousand More
@@ -93,7 +93,7 @@
 1. The Man Who Knew Infinity
 1. The Mummy
 1. The Pirate Bay Away From Keyboard
-1. [The Tourist](https://www.imdb.com/title/tt1243957/)
+1. [The Tourist](https://www.imdb.com/title/tt1243957/) : 8/10
 1. UnderWorld 5 seriside
 1. WarGames (1983) 10/10
 1. Who Am I
