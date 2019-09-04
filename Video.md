@@ -29,7 +29,7 @@
 1. Bubblegum
 1. City Hunter
 1. Cunning Single Lady
-1. Descendants of the Sun 
+1. Descendants of the Sun
 1. Goblin
 1. Healer
 1. Hwarang: The Beginning 20
@@ -63,6 +63,8 @@
 1. [Dark Shadows](https://www.imdb.com/title/tt1077368/) : 7/10
 1. Deepwater Horizon 7/10
 1. Dr Strange (2016) : 10/10
+1. [Divergent 1](https://www.imdb.com/title/tt1840309/?ref_=ttls_li_i) : 7/10
+1. [Divergent 2](https://www.imdb.com/title/tt2908446/?ref_=ttls_li_i) : 7/10
 1. [Enter the Warriors Gate](https://www.imdb.com/title/tt4652532/) : Completed : 9/10
 1. Ex machina
 1. [Edge of Tomorrow](http://www.beyazperde.com/filmler/film-185030/) : 10/10
