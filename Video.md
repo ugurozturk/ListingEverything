@@ -65,6 +65,7 @@
 1. Dr Strange (2016) : 10/10
 1. [Divergent 1](https://www.imdb.com/title/tt1840309/?ref_=ttls_li_i) : 7/10
 1. [Divergent 2](https://www.imdb.com/title/tt2908446/?ref_=ttls_li_i) : 7/10
+1. Divergent 3 : 7/10
 1. [Enter the Warriors Gate](https://www.imdb.com/title/tt4652532/) : Completed : 9/10
 1. Ex machina
 1. [Edge of Tomorrow](http://www.beyazperde.com/filmler/film-185030/) : 10/10
