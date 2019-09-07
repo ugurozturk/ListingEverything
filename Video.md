@@ -71,6 +71,7 @@
 1. [Edge of Tomorrow](http://www.beyazperde.com/filmler/film-185030/) : 10/10
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Hacker
+1. He Never Died : 5/10
 1. Johnny English (2003)
 1. [Just Go With It](https://m.imdb.com/title/tt1564367/)
 1. Kubo and the Two Strings
@@ -90,6 +91,7 @@
 1. Snowden (2016)
 1. Split (2016)
 1. Star Trek Beyond
+1. Stajyer 7/10
 1. Storks 8/40
 1. Shazam : 7/10
 1. The Internet's Own Boy: The Story Of Aaron Swartz
