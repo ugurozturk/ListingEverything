@@ -60,6 +60,7 @@
 1. Bounty.Hunters
 1. Bruce Almighty Aman Tanrım!
 1. Crazy Stupid Love 2011
+1. Cloverfield Paradoksu : 5/10
 1. [Dark Shadows](https://www.imdb.com/title/tt1077368/) : 7/10
 1. Deepwater Horizon 7/10
 1. Dr Strange (2016) : 10/10
