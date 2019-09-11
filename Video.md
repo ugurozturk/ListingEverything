@@ -78,6 +78,7 @@
 1. Love For A Thousand More
 1. Moana (2016)	8/10
 1. My Secret Romance
+1. [Geostorm](http://www.beyazperde.com/filmler/film-228321/) : 7/10
 1. Neighbors
 1. Neighbors 2
 1. Passengers
