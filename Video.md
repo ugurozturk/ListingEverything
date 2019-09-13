@@ -73,6 +73,7 @@
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Hacker
 1. He Never Died : 5/10
+1. [Hellboy 2](https://www.imdb.com/title/tt0411477/) 6/10
 1. Johnny English (2003)
 1. [Just Go With It](https://m.imdb.com/title/tt1564367/)
 1. Kubo and the Two Strings
@@ -96,6 +97,7 @@
 1. Stajyer 7/10
 1. Storks 8/40
 1. Shazam : 7/10
+1. [Transcendence](https://www.imdb.com/title/tt2209764/) : 7/10
 1. The Internet's Own Boy: The Story Of Aaron Swartz
 1. The Lost City Of Z
 1. The Man Who Knew Infinity
