@@ -92,6 +92,7 @@
 1. Secret Life of pets
 1. Sing (2016)
 1. Snowden (2016)
+1. [Shanghai Fortress] (https://www.imdb.com/title/tt6628322/) : 3/10
 1. Split (2016)
 1. Star Trek Beyond
 1. Stajyer 7/10
