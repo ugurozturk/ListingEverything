@@ -63,6 +63,7 @@
 1. Cloverfield Paradoksu : 5/10
 1. [Dark Shadows](https://www.imdb.com/title/tt1077368/) : 7/10
 1. Deepwater Horizon 7/10
+1. [Deep Impact] (https://m.imdb.com/title/tt0120647/) : 6/10
 1. Dr Strange (2016) : 10/10
 1. [Divergent 1](https://www.imdb.com/title/tt1840309/?ref_=ttls_li_i) : 7/10
 1. [Divergent 2](https://www.imdb.com/title/tt2908446/?ref_=ttls_li_i) : 7/10
