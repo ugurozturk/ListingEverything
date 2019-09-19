@@ -75,6 +75,7 @@
 1. Hacker
 1. He Never Died : 5/10
 1. [Hellboy 2](https://www.imdb.com/title/tt0411477/) 6/10
+1. [Inglourious Basterds](https://m.imdb.com/title/tt0361748/) : 8/10
 1. Johnny English (2003)
 1. [Just Go With It](https://m.imdb.com/title/tt1564367/)
 1. Kubo and the Two Strings
