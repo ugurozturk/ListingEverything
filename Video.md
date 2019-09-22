@@ -100,6 +100,7 @@
 1. Stajyer 7/10
 1. Storks 8/40
 1. Shazam : 7/10
+1. Tarzan (2016) : 6/10
 1. [Transcendence](https://www.imdb.com/title/tt2209764/) : 7/10
 1. The Internet's Own Boy: The Story Of Aaron Swartz
 1. The Lost City Of Z
