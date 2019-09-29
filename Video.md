@@ -73,6 +73,7 @@
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Hacker
 1. He Never Died : 5/10
+1. [Inferno 2016](https://www.imdb.com/title/tt3062096/) : 7/10
 1. Johnny English (2003)
 1. [Just Go With It](https://m.imdb.com/title/tt1564367/)
 1. Kubo and the Two Strings
