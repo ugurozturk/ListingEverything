@@ -63,6 +63,7 @@
 1. Cloverfield Paradoksu : 5/10
 1. [Dark Shadows](https://www.imdb.com/title/tt1077368/) : 7/10
 1. Deepwater Horizon 7/10
+1. [Deep Impact] (https://m.imdb.com/title/tt0120647/) : 6/10
 1. Dr Strange (2016) : 10/10
 1. [Divergent 1](https://www.imdb.com/title/tt1840309/?ref_=ttls_li_i) : 7/10
 1. [Divergent 2](https://www.imdb.com/title/tt2908446/?ref_=ttls_li_i) : 7/10
@@ -73,7 +74,9 @@
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Hacker
 1. He Never Died : 5/10
+1. [Hellboy 2](https://www.imdb.com/title/tt0411477/) 6/10
 1. [Inferno 2016](https://www.imdb.com/title/tt3062096/) : 7/10
+1. [Inglourious Basterds](https://m.imdb.com/title/tt0361748/) : 8/10
 1. Johnny English (2003)
 1. [Just Go With It](https://m.imdb.com/title/tt1564367/)
 1. Kubo and the Two Strings
@@ -92,11 +95,14 @@
 1. Secret Life of pets
 1. Sing (2016)
 1. Snowden (2016)
+1. [Shanghai Fortress] (https://www.imdb.com/title/tt6628322/) : 3/10
 1. Split (2016)
 1. Star Trek Beyond
 1. Stajyer 7/10
 1. Storks 8/40
 1. Shazam : 7/10
+1. Tarzan (2016) : 6/10
+1. [Transcendence](https://www.imdb.com/title/tt2209764/) : 7/10
 1. The Internet's Own Boy: The Story Of Aaron Swartz
 1. The Lost City Of Z
 1. The Man Who Knew Infinity
