@@ -73,6 +73,7 @@
 1. [Edge of Tomorrow](http://www.beyazperde.com/filmler/film-185030/) : 10/10
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Hacker
+1. Hacksaw Ridge : 9/10
 1. He Never Died : 5/10
 1. [Hellboy 2](https://www.imdb.com/title/tt0411477/) 6/10
 1. [Inferno 2016](https://www.imdb.com/title/tt3062096/) : 7/10
