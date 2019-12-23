@@ -21,6 +21,7 @@
 1. Lucifer : Completed
 1. WestWorld (Dizi)
 1. Vikings S04E9 civarı
+1. The Witcher (2019)
 
 ## Watched Asian TV Series
 1. A Man Called God
@@ -78,6 +79,7 @@
 1. [Inferno 2016](https://www.imdb.com/title/tt3062096/) : 7/10
 1. [Inglourious Basterds](https://m.imdb.com/title/tt0361748/) : 8/10
 1. Johnny English (2003)
+1. Joker (2019)
 1. [Just Go With It](https://m.imdb.com/title/tt1564367/)
 1. Kubo and the Two Strings
 1. Kung Fu Yoga
