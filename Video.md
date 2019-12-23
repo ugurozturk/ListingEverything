@@ -111,6 +111,7 @@
 1. The Mummy
 1. The Pirate Bay Away From Keyboard
 1. [The Tourist](https://www.imdb.com/title/tt1243957/) : 8/10
+1. Tomb Raider (2018) : 8/10
 1. UnderWorld 5 seriside
 1. WarGames (1983) 10/10
 1. Who Am I
