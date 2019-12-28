@@ -289,6 +289,7 @@
 1. Seiren - 12
 1. Shigatsu wa Kimi no Uso : 22
 1. Shigatsu wa Kimi no Uso: Moments : 1
+1. Shinchou Yuusha : 12 8/10
 1. Shingeki no Bahamut: Genesis : 12
 1. Shingeki no Kyojin : 25
 1. Shingeki no Kyojin OVA : 3
