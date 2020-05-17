@@ -11,6 +11,7 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
+1. Xian Wang de Richang Shenghuo 4. Bölüm
 1. Kujira no Kora wa Sajou ni Utau 3. Bölüm
 1. Ballroom e Youkoso 16. Bölüm
 1. Gamers! 03
