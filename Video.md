@@ -23,6 +23,7 @@
 1. WestWorld (Dizi)
 1. Vikings S04E9 civarı
 1. The Witcher (2019)
+1. Breaking Bad
 
 ## Watched Asian TV Series
 1. A Man Called God
