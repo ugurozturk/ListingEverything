@@ -15,7 +15,7 @@
 1. The Walking Dead S07E16
 1. You are too much E24
 1. The King Eternal Monarch | 10. Bölüm | [imdb](https://www.imdb.com/title/tt11228748/) | [asianwiki](http://asianwiki.com/The_King:_Eternal_Monarch)
-1. Find Me in Your Memory | 6.Bölüm | [imdb](https://www.imdb.com/title/tt11885790/) | [asianwiki](http://asianwiki.com/Find_Me_in_Your_Memory)
+1. Find Me in Your Memory | 16.Bölüm | [imdb](https://www.imdb.com/title/tt11885790/) | [asianwiki](http://asianwiki.com/Find_Me_in_Your_Memory)
 
 ## Watched Tv Series
 1. Lucifer : 7/10
