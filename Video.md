@@ -15,7 +15,6 @@
 1. The Walking Dead S07E16
 1. You are too much E24
 1. The King Eternal Monarch | 10. Bölüm | [imdb](https://www.imdb.com/title/tt11228748/) | [asianwiki](http://asianwiki.com/The_King:_Eternal_Monarch)
-1. Find Me in Your Memory | 16.Bölüm | [imdb](https://www.imdb.com/title/tt11885790/) | [asianwiki](http://asianwiki.com/Find_Me_in_Your_Memory)
 
 ## Watched Tv Series
 1. Lucifer : 7/10
@@ -34,6 +33,7 @@
 1. City Hunter
 1. Cunning Single Lady
 1. Descendants of the Sun
+1. Find Me in Your Memory | 32.Bölüm | [imdb](https://www.imdb.com/title/tt11885790/) | [asianwiki](http://asianwiki.com/Find_Me_in_Your_Memory)
 1. Goblin
 1. Healer
 1. Hwarang: The Beginning 20
@@ -41,8 +41,8 @@
 1. It's Okay It's Love
 1. Legend of the blue sea
 1. My Boss is a Hero
-1. My Love From Another Star
 1. My girlfriend is a gumiho
+1. My Love From Another Star
 1. My Sassy Girl
 1. Personel Taste
 1. Pinocchio
