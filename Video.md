@@ -15,7 +15,7 @@
 1. The Walking Dead S07E16
 1. You are too much E24
 1. The King Eternal Monarch | 10. Bölüm | [imdb](https://www.imdb.com/title/tt11228748/) | [asianwiki](http://asianwiki.com/The_King:_Eternal_Monarch)
-1. Memories of the Alhambra E03 | [imdb](https://www.imdb.com/title/tt8236556/) | [asianwiki](http://asianwiki.com/Memories_of_the_Alhambra)
+1. Memories of the Alhambra | E16 | 9/10 | [imdb](https://www.imdb.com/title/tt8236556/) | [asianwiki](http://asianwiki.com/Memories_of_the_Alhambra)
 
 ## Watched Tv Series
 1. Lucifer : 7/10
