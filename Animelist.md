@@ -11,7 +11,6 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
-1. Xian Wang de Richang Shenghuo 4. Bölüm
 1. Kujira no Kora wa Sajou ni Utau 3. Bölüm
 1. Ballroom e Youkoso 16. Bölüm
 1. Gamers! 03
@@ -166,19 +165,19 @@
 1. Fullmetal Alchemist : 51
 1. Fullmetal Alchemist: Brotherhood : 64
 1. Fuuka 12 4/10
-1. GJ-bu : 12
 1. Gakusen Toshi Asterisk : 12
 1. Gakusen Toshi Asterisk S2 : 12
 1. Gangsta. : 12
-1. Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season : 12
 1. Gate: Jieitai Kanochi nite, Kaku Tatakaeri : 12
+1. Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season : 12
 1. Gekkan Shoujo Nozaki-kun : 12
 1. Genshiken Nidaime : 13
 1. Gin no Guardian 12. Bölüm
 1. Gin no Saji : 11
-1. GoSick 24. Bölüm
+1. GJ-bu : 12
 1. Gokukoku no Brynhildr : 13
 1. Golden Boy : 6
+1. GoSick 24. Bölüm
 1. Great Teacher Onizuka : 43
 1. Guilty Crown : 22
 1. Hai to Gensou no Grimgar : 12
@@ -197,29 +196,29 @@
 1. Highschool of the Dead : 12
 1. Highschool of the Dead: Drifters of the Dead : 1
 1. Hunter x Hunter (2011) : 148
-1. IS: Infinite Stratos : 12
 1. Ichiban Ushiro no Daimaou : 12
 1. Iketeru Futari : 16
+1. IS: Infinite Stratos : 12
 1. Isshuukan Friends. : 12
 1. Kamisama no Inai Nichiyoubi : 12
 1. Kill la Kill : 24
 1. Kiseijuu: Sei no Kakuritsu : 24
-1. Kiss x Sis (TV) : 12
 1. Kiss x Sis : 12
+1. Kiss x Sis (TV) : 12
 1. Kiznaiver	12	8/10
 1. Knight's & Magic 13. Bölüm
 1. Kobayashi-san Chi no Maid Dragon : 13
-1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 10
 1. Kono Subarashii Sekai ni Shukufuku wo! : 10
+1. Kono Subarashii Sekai ni Shukufuku wo! 2 - 10
 1. Kono Subarashii Sekai ni Shukufuku wo! OVA : 2
 1. Kore wa Zombie Desu ka? : 12
 1. Koutetsujou no Kabaneri : 12
+1. Kuroko no Basket : 25
 1. Kuroko no Basket 2nd Season : 25
 1. Kuroko no Basket 3rd Season : 25
-1. Kuroko no Basket : 25
 1. Little Witch Academia 25
-1. Log Horizon 2nd Season : 25
 1. Log Horizon : 25
+1. Log Horizon 2nd Season : 25
 1. Madan no Ou to Vanadis : 13
 1. Magi: Sinbad no Bouken 13
 1. Magi: The Kingdom of Magic : 25
@@ -311,8 +310,8 @@
 1. Sword Art Online : 25
 1. Sword Art Online II : 24
 1. Sword Art Online: Extra Edition : 1
-1. Sword Art Online: Sword Art Offline : 9
 1. Sword Art Online: Ordinal Scale : 1
+1. Sword Art Online: Sword Art Offline : 9
 1. Taimadou Gakuen 35 Shiken Shoutai 12
 1. Tales of Zestiria the X : 12
 1. The Last: Naruto the Movie : 1
@@ -329,19 +328,20 @@
 1. Tonari no Seki-kun OVA : 1
 1. Triage X : 10
 1. Trinity Seven : 12
-1. Ushio to Tora (TV) 2nd Season :	13	7/10
 1. Ushio to Tora (TV) : 26	7/10
+1. Ushio to Tora (TV) 2nd Season :	13	7/10
 1. Vampire Knight : 13
 1. Vampire Knight Guilty : 13
 1. Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui! : 12
 1. Witch Craft Works : 12
 1. Wizard Barristers: Benmashi Cecil : 12
-1. YURI!!! on ICE : 12
+1. Xian Wang de Richang Shenghuo : 8/10 | [imdb](https://www.imdb.com/title/tt11755260/) | [myanimelist](https://myanimelist.net/anime/41094/Xian_Wang_de_Richang_Shenghuo)
 1. Yahari Ore no Seishun Love Comedy wa Machigatteiru. : 13
 1. Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku : 13
 1. Yamada-kun to 7-nin no Majo (TV) : 12
 1. Yosuga no Sora: In Solitude, Where We Are Least Alone. : 12
 1. Youjo Senki 12 + 1sepcial (ep 6,5)
+1. YURI!!! on ICE : 12
 1. Z/X: Ignition : 12
 1. Zankyou no Terror : 11
 1. Zero kara Hajimeru Mahou no Sho 12. Bölüm
