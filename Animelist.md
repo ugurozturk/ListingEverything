@@ -11,6 +11,7 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
+1. Plunderer 1. Bölüm : 3/10
 1. Kujira no Kora wa Sajou ni Utau 3. Bölüm
 1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm

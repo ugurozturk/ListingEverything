@@ -5,6 +5,8 @@
 
 ## Reading Books
 1. The Witcher 1
+1. Emperor’s Domination - 1702 - "Çok güçlü, gereksiz item harcıyor. Bu kadar güçlü olmasaydı ? sözde çok mantıklı. Herkese zaman kaybetmeden ilk hamlede yenin diyor fakat kendisi sürekli yumuşak başlıyor. Bir çok seferinde buna pişman oldu. Beni de sıktı"
+1. Nine Star Hegemon Body Art - 1269 - "Güzel seri, zafer yenilgi kaçış. Novel dünyasında saçma gelen bir durum olmuyor."
 
 ## Completed Books
 1. [Olasılıksız](https://www.dr.com.tr/kitap/olasiliksiz/edebiyat/roman/dunya-roman/urunno=0000000204878) : Completed : 10/10
@@ -14,3 +16,6 @@
 ## Plan To Read Books
 1. The Witcher 2
 1. [Ejderha Dövmeli Kız](https://1000kitap.com/kitap/ejderha-dovmeli-kiz--386)
+
+## Drop to read
+1. Sovereign of the Three Realms - 834 - "Yazar güzel hikayede sürekli tekrara düşüyor. Gereksiz bir çok yazı var. Sıktı"
