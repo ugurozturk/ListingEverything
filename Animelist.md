@@ -12,7 +12,6 @@
 
 ## Watching Animes
 1. Kujira no Kora wa Sajou ni Utau 3. Bölüm
-1. Ballroom e Youkoso 16. Bölüm
 1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm
 1. Made in Abyss 8. Bölüm
@@ -98,6 +97,7 @@
 1. B-gata H-kei : 12
 1. Bakemono no Ko : 1
 1. Bakemonogatari : 15
+1. Ballroom e Youkoso : 8/10 | [imdb](Ballroom e Youkoso) | [myanimelist](Ballroom e Youkoso)
 1. Barakamon : 12
 1. Bayonetta: Bloody Fate : 1
 1. Beelzebub : 60
