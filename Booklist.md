@@ -18,4 +18,4 @@
 1. [Ejderha Dövmeli Kız](https://1000kitap.com/kitap/ejderha-dovmeli-kiz--386)
 
 ## Drop to read
-1. Sovereign of the Three Realms - 834 - "Yazar güzel hikayede sürekli tekrara düşüyor. Gereksiz bir çok yazı var. Sıktı"
+1. Sovereign of the Three Realms - 834 - 3/10 - "Yazar güzel hikayede sürekli tekrara düşüyor. Gereksiz bir çok yazı var. Sıktı"
