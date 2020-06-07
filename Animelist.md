@@ -92,6 +92,7 @@
 1. Ao no Exorcist: Ura Ex : 10
 1. Ao no Kanata no Four Rhythm : 12
 1. Aoharu x Kikanjuu : 13
+1. Arifureta Shokugyou de Sekai Saikyou : 7/10 | [imdb](https://www.imdb.com/title/tt10431290/) | [myanimelist](https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou)
 1. Arslan Senki (TV) : 25
 1. Asa made Jugyou Chu! : 1
 1. Asu no Yoichi! : 12
