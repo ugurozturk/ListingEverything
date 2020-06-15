@@ -17,13 +17,13 @@
 1. The King Eternal Monarch | 10. Bölüm | [imdb](https://www.imdb.com/title/tt11228748/) | [asianwiki](http://asianwiki.com/The_King:_Eternal_Monarch)
 
 ## Watched Tv Series
-1. Lucifer : 7/10
-1. Lost
-1. Lucifer : Completed
-1. WestWorld (Dizi)
-1. Vikings S04E9 civarı
-1. The Witcher (2019)
 1. Breaking Bad
+1. Lost
+1. Lucifer : 7/10
+1. Lucifer : Completed
+1. The Witcher (2019)
+1. Vikings S04E9 civarı
+1. WestWorld (Dizi)
 
 ## Watched Asian TV Series
 1. A Man Called God
