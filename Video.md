@@ -64,59 +64,60 @@
 1. Baby Boss
 1. Bounty.Hunters
 1. Bruce Almighty Aman Tanrım!
-1. Crazy Stupid Love 2011
 1. Cloverfield Paradoksu : 5/10
-1. [Dark Shadows](https://www.imdb.com/title/tt1077368/) : 7/10
+1. Crazy Stupid Love 2011
+1. Dark Shadows - 7/10 [imdb](https://www.imdb.com/title/tt1077368/)
+1. Deep Impact - 6/10 - [imdb](https://m.imdb.com/title/tt0120647/)
 1. Deepwater Horizon 7/10
-1. [Deep Impact](https://m.imdb.com/title/tt0120647/) : 6/10
-1. Dr Strange (2016) : 10/10
-1. [Divergent 1](https://www.imdb.com/title/tt1840309/?ref_=ttls_li_i) : 7/10
-1. [Divergent 2](https://www.imdb.com/title/tt2908446/?ref_=ttls_li_i) : 7/10
+1. Divergent 1 - 7/10 - [imdb](https://www.imdb.com/title/tt1840309/?ref_=ttls_li_i)
+1. Divergent 2 - 7/10 - [imdb](https://www.imdb.com/title/tt2908446/?ref_=ttls_li_i)
 1. Divergent 3 : 7/10
-1. [Enter the Warriors Gate](https://www.imdb.com/title/tt4652532/) : Completed : 9/10
+1. Dr Strange (2016) : 10/10
+1. Edge of Tomorrow - 10/10 - [beyazperde](http://www.beyazperde.com/filmler/film-185030/)
+1. Enter the Warriors Gate - 9/10 - [imdb](https://www.imdb.com/title/tt4652532/)
 1. Ex machina
-1. [Edge of Tomorrow](http://www.beyazperde.com/filmler/film-185030/) : 10/10
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
+1. Geostorm - 7/10 - [imdb](http://www.beyazperde.com/filmler/film-228321/)
 1. Hacker
 1. Hacksaw Ridge : 9/10
 1. He Never Died : 5/10
-1. [Hellboy 2](https://www.imdb.com/title/tt0411477/) 6/10
-1. [Inferno 2016](https://www.imdb.com/title/tt3062096/) : 7/10
-1. [Inglourious Basterds](https://m.imdb.com/title/tt0361748/) : 8/10
+1. Hellboy 2 - 6/10 - [imdb](https://www.imdb.com/title/tt0411477/)
+1. Inferno 2016 - 7/10 - [imdb](https://www.imdb.com/title/tt3062096/)
+1. Inglourious Basterds - 8/10 - [imdb](https://m.imdb.com/title/tt0361748/)
 1. Johnny English (2003)
 1. Joker (2019)
-1. [Just Go With It](https://m.imdb.com/title/tt1564367/)
+1. Just Go With It - [imdb](https://m.imdb.com/title/tt1564367/)
 1. Kubo and the Two Strings
 1. Kung Fu Yoga
 1. Love For A Thousand More
+1. Making Family - 8/10 - [imdb](https://www.imdb.com/title/tt6389310/)
 1. Moana (2016)	8/10
 1. My Secret Romance
-1. [Geostorm](http://www.beyazperde.com/filmler/film-228321/) : 7/10
 1. Neighbors
 1. Neighbors 2
 1. Passengers
 1. Patriots Day 8/10
 1. Pete's Dragon
-1. [Pompeii](https://www.imdb.com/title/tt1921064/) : 7/10
+1. Pompeii - 7/10 - [imdb](https://www.imdb.com/title/tt1921064/)
 1. Rogue One 
 1. Secret Life of pets
+1. Shanghai Fortress - 3/10 - [imdb](https://www.imdb.com/title/tt6628322/)
+1. Shazam : 7/10
 1. Sing (2016)
 1. Snowden (2016)
-1. [Shanghai Fortress] (https://www.imdb.com/title/tt6628322/) : 3/10
 1. Split (2016)
-1. Star Trek Beyond
 1. Stajyer 7/10
+1. Star Trek Beyond
 1. Storks 8/40
-1. Shazam : 7/10
 1. Tarzan (2016) : 6/10
-1. [Transcendence](https://www.imdb.com/title/tt2209764/) : 7/10
 1. The Internet's Own Boy: The Story Of Aaron Swartz
 1. The Lost City Of Z
 1. The Man Who Knew Infinity
 1. The Mummy
 1. The Pirate Bay Away From Keyboard
-1. [The Tourist](https://www.imdb.com/title/tt1243957/) : 8/10
+1. The Tourist - 8/10 - [imdb](https://www.imdb.com/title/tt1243957/)
 1. Tomb Raider (2018) : 8/10
+1. Transcendence - 7/10 - [imdb](https://www.imdb.com/title/tt2209764/)
 1. UnderWorld 5 seriside
 1. WarGames (1983) 10/10
 1. Who Am I
