@@ -15,6 +15,7 @@
 1. The Walking Dead S07E16
 1. You are too much E24
 1. The King Eternal Monarch | 10. Bölüm | [imdb](https://www.imdb.com/title/tt11228748/) | [asianwiki](http://asianwiki.com/The_King:_Eternal_Monarch)
+1. The King’s Avatar 14. Bölüm - 8/10
 
 ## Watched Tv Series
 1. Breaking Bad
