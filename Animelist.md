@@ -15,7 +15,6 @@
 1. Kujira no Kora wa Sajou ni Utau 4. Bölüm
 1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm
-1. Made in Abyss 8. Bölüm
 1. 18if 02
 1. Baruto 5. Bölüm
 1. Boku no Hero Academia 2nd Season 24. Bölüm + Ova
@@ -221,6 +220,7 @@
 1. Log Horizon : 25
 1. Log Horizon 2nd Season : 25
 1. Madan no Ou to Vanadis : 13
+1. Made in Abyss : 13
 1. Magi: Sinbad no Bouken 13
 1. Magi: The Kingdom of Magic : 25
 1. Magi: The Labyrinth of Magic : 25
