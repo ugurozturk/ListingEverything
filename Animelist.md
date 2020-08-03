@@ -11,8 +11,8 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
-1. Plunderer 1. Bölüm : 3/10
-1. Kujira no Kora wa Sajou ni Utau 3. Bölüm
+1. Maou Gakuin no Futekigousha 5. Bölüm
+1. Kujira no Kora wa Sajou ni Utau 4. Bölüm
 1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm
 1. Made in Abyss 8. Bölüm
@@ -271,6 +271,7 @@
 1. Owari no Seraph : 12
 1. Owari no Seraph 2 : 12
 1. Plastic Memories : 13
+1. Plunderer 24. Bölüm : 5/10
 1. Pokemon the Movie XY: Ring no Choumajin Hoopa : 1
 1. Princess Lover! : 12
 1. Prison School : 12
@@ -351,6 +352,8 @@
 1. Zero no Tsukaima: Princesses no Rondo : 12
 
 ## Plan to Watch Animes
+1. Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season 23 Sep. 2020
+
 1. Accel World EX : 0
 1. Akagami no Shirayuki-hime 2nd Season : 1
 1. Boku wa Tomodachi ga Sukunai : 0
