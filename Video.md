@@ -58,6 +58,7 @@
 1. You're all surrounded E20
 
 ## Watched Movies
+1. 17 Again (2009) - 9/10
 1. A Street Cat Named Bob (2016)	8.5/10
 1. Angry Birds
 1. Anti Matter
@@ -67,7 +68,8 @@
 1. Bruce Almighty Aman Tanrım!
 1. Cloverfield Paradoksu : 5/10
 1. Crazy Stupid Love 2011
-1. Dark Shadows - 7/10 [imdb](https://www.imdb.com/title/tt1077368/)
+1. Cep Herkülü: Naim Süleymanoglu - 10/10 - [imdb](https://www.imdb.com/title/tt9500372/)
+1. Dark Shadows - 7/10 - [imdb](https://www.imdb.com/title/tt1077368/)
 1. Deep Impact - 6/10 - [imdb](https://m.imdb.com/title/tt0120647/)
 1. Deepwater Horizon 7/10
 1. Divergent 1 - 7/10 - [imdb](https://www.imdb.com/title/tt1840309/?ref_=ttls_li_i)
