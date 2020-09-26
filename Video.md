@@ -90,6 +90,7 @@
 1. Johnny English (2003)
 1. Joker (2019)
 1. Just Go With It - [imdb](https://m.imdb.com/title/tt1564367/)
+1. King Arthur Legend of the Sword - 7/10 - [imdb](https://www.imdb.com/title/tt1972591/)
 1. Kubo and the Two Strings
 1. Kung Fu Yoga
 1. Love For A Thousand More
