@@ -11,7 +11,6 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
-1. Maou Gakuin no Futekigousha 5. Bölüm
 1. Kujira no Kora wa Sajou ni Utau 4. Bölüm
 1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm
@@ -231,6 +230,7 @@
 1. Maken-Ki! Specials : 6
 1. Maken-Ki! Two : 10
 1. Mangaka-san to Assistant-san to The Animation : 12
+1. Maou Gakuin no Futekigousha : 13 - 7/10 - [imdb](https://www.imdb.com/title/tt12432936/) | [myanimelist](https://myanimelist.net/anime/40496/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e_)
 1. Masou Gakuen HxH - Special: 1
 1. Masou Gakuen HxH : 12
 1. Military! : 12
