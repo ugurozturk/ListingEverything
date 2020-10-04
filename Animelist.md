@@ -279,6 +279,7 @@
 1. Quan Zhi Gao Shou 12. Bölüm
 1. Rakudai Kishi no Cavalry : 12
 1. Re:Zero kara Hajimeru Isekai Seikatsu : 25
+1. Re:Zero kara Hajimeru Isekai Seikatsu 2nd : 13 - 8/10
 1. Robotics;Notes : 22
 1. Rokka no Yuusha : 12
 1. Rokudenashi Majutsu Koushi to Akashic Records 12. Bölüm
@@ -352,8 +353,6 @@
 1. Zero no Tsukaima: Princesses no Rondo : 12
 
 ## Plan to Watch Animes
-1. Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season 23 Sep. 2020
-
 1. Accel World EX : 0
 1. Akagami no Shirayuki-hime 2nd Season : 1
 1. Boku wa Tomodachi ga Sukunai : 0
