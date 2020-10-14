@@ -11,6 +11,10 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
+1. Mahouka Koukou no Rettousei - Raihousha Hen 2. Bölüm
+1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III 2. Bölüm
+1. The Kings Avatar 2. sezon 2. Bölüm
+
 1. Kujira no Kora wa Sajou ni Utau 4. Bölüm
 1. Gamers! 03
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm
