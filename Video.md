@@ -25,6 +25,7 @@
 1. The Witcher (2019)
 1. Vikings S04E9 civarı
 1. WestWorld (Dizi)
+1. The Mandalorian (2019) - 8 - 7/10 - [imdb](https://www.imdb.com/title/tt8111088/)
 
 ## Watched Asian TV Series
 1. A Man Called God
