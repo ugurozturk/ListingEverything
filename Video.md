@@ -40,6 +40,7 @@
 1. Healer
 1. Hwarang: The Beginning 20
 1. Introverted Boss
+1. Kill Me Heal Me - 8/10 - [imdb](https://www.imdb.com/title/tt4339192/)
 1. It's Okay It's Love
 1. Legend of the blue sea
 1. Memories of the Alhambra | E16 | 9/10 | [imdb](https://www.imdb.com/title/tt8236556/) | [asianwiki](http://asianwiki.com/Memories_of_the_Alhambra)
