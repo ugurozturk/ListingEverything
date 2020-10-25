@@ -6,7 +6,6 @@
 [Plan to Watch](#plan-to-watch)  
 
 ## Watching
-1. Fight My Way E06
 1. Fringe 1. Sezon 8.Bölüm
 1. Genius S01E04
 1. Legion S01E07
@@ -83,6 +82,7 @@
 1. Ex machina
 1. Extracurricular - 4/10
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
+1. Fight For My Way - 7/10 - [imdb](https://www.imdb.com/title/tt6824234/)
 1. Geostorm - 7/10 - [imdb](http://www.beyazperde.com/filmler/film-228321/)
 1. Hacker
 1. Hacksaw Ridge : 9/10
