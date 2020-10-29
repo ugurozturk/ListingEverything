@@ -6,14 +6,11 @@
 [Plan to Watch](#plan-to-watch)  
 
 ## Watching
-1. Fringe 1. Sezon 8.Bölüm
-1. Genius S01E04
 1. Legion S01E07
 1. Missing Nine - 8
 1. Planet Earth - 2
 1. The Walking Dead S07E16
 1. You are too much E24
-1. The King Eternal Monarch | 10. Bölüm | [imdb](https://www.imdb.com/title/tt11228748/) | [asianwiki](http://asianwiki.com/The_King:_Eternal_Monarch)
 1. The King’s Avatar 14. Bölüm - 8/10
 
 ## Watched Tv Series
@@ -39,8 +36,8 @@
 1. Healer
 1. Hwarang: The Beginning 20
 1. Introverted Boss
-1. Kill Me Heal Me - 8/10 - [imdb](https://www.imdb.com/title/tt4339192/)
 1. It's Okay It's Love
+1. Kill Me Heal Me - 8/10 - [imdb](https://www.imdb.com/title/tt4339192/)
 1. Legend of the blue sea
 1. Memories of the Alhambra | E16 | 9/10 | [imdb](https://www.imdb.com/title/tt8236556/) | [asianwiki](http://asianwiki.com/Memories_of_the_Alhambra)
 1. My Boss is a Hero
@@ -53,10 +50,12 @@
 1. Strong Woman Do Bong Soon 16.Bölüm
 1. Suspicious Partner E40
 1. The Heirs
+1. The King Eternal Monarch - 7/10 - [imdb](https://www.imdb.com/title/tt11228748/) | [asianwiki](http://asianwiki.com/The_King:_Eternal_Monarch)
 1. The Liar and His Lover 16.Bölüm
 1. Train to Busan (2016)
 1. Weightlifting Fairy Kim Bok-joo
 1. You're all surrounded E20
+1. Zombie Detective - 7/10
 
 ## Watched Movies
 1. 17 Again (2009) - 9/10
