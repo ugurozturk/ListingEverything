@@ -204,6 +204,7 @@
 1. IS: Infinite Stratos : 12
 1. Isshuukan Friends. : 12
 1. Kamisama no Inai Nichiyoubi : 12
+1. Kanojo, Okarishimasu
 1. Kill la Kill : 24
 1. Kiseijuu: Sei no Kakuritsu : 24
 1. Kiss x Sis : 12

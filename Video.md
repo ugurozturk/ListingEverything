@@ -6,6 +6,7 @@
 [Plan to Watch](#plan-to-watch)  
 
 ## Watching
+1. Tale of the Nine Tailed E08
 1. Legion S01E07
 1. Missing Nine - 8
 1. Planet Earth - 2
