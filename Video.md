@@ -6,13 +6,14 @@
 [Plan to Watch](#plan-to-watch)  
 
 ## Watching
-1. Tale of the Nine Tailed E08
+1. Tale of the Nine Tailed E11 6/10
 1. Legion S01E07
 1. Missing Nine - 8
 1. Planet Earth - 2
 1. The Walking Dead S07E16
 1. You are too much E24
 1. The King’s Avatar 14. Bölüm - 8/10
+1. More Than Friends E12 - 3/10
 
 ## Watched Tv Series
 1. Breaking Bad

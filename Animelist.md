@@ -17,7 +17,6 @@
 
 1. Kujira no Kora wa Sajou ni Utau 4. Bölüm
 1. Gamers! 03
-1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 4. Bölüm
 1. 18if 02
 1. Baruto 5. Bölüm
 1. Boku no Hero Academia 2nd Season 24. Bölüm + Ova
@@ -349,6 +348,7 @@
 1. Yamada-kun to 7-nin no Majo (TV) : 12
 1. Yosuga no Sora: In Solitude, Where We Are Least Alone. : 12
 1. Youjo Senki 12 + 1sepcial (ep 6,5)
+1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - 6/10
 1. YURI!!! on ICE : 12
 1. Z/X: Ignition : 12
 1. Zankyou no Terror : 11
