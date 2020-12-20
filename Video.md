@@ -72,8 +72,8 @@
 1. Bounty.Hunters
 1. Bruce Almighty Aman Tanrım!
 1. Cloverfield Paradoksu : 5/10
-1. Crazy Stupid Love 2011
 1. Cep Herkülü: Naim Süleymanoglu - 10/10 - [imdb](https://www.imdb.com/title/tt9500372/)
+1. Crazy Stupid Love 2011
 1. Dark Shadows - 7/10 - [imdb](https://www.imdb.com/title/tt1077368/)
 1. Deep Impact - 6/10 - [imdb](https://m.imdb.com/title/tt0120647/)
 1. Deepwater Horizon 7/10
@@ -110,6 +110,7 @@
 1. Patriots Day 8/10
 1. Pete's Dragon
 1. Pompeii - 7/10 - [imdb](https://www.imdb.com/title/tt1921064/)
+1. Ready Player One
 1. Rogue One 
 1. Secret Life of pets
 1. Shanghai Fortress - 3/10 - [imdb](https://www.imdb.com/title/tt6628322/)
