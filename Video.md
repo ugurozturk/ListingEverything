@@ -20,11 +20,13 @@
 1. Lost
 1. Lucifer : 7/10
 1. Lucifer : Completed
+1. Saygı - 8 - 10/10 - [imdb](https://www.imdb.com/title/tt11450050/)
 1. The Mandalorian (2019) - 8 - 7/10 - [imdb](https://www.imdb.com/title/tt8111088/)
 1. The Queens Gambit - 9/10 - [imdb](https://www.imdb.com/title/tt10048342/)
 1. The Witcher (2019)
 1. Vikings S04E9 civarı
 1. WestWorld (Dizi)
+1. Yaşamayanlar - 8 - 7/10 - [imdb](https://www.imdb.com/title/tt8063174/)
 
 ## Watched Asian TV Series
 1. A Man Called God
