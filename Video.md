@@ -1,9 +1,9 @@
 # Video
-[Watching](#watching)  
-[Watched Tv Series](#watched-tv-series)  
-[Watched Asian](#watched-asian-tv-series)  
-[Watched Movies](#watched-movies)  
-[Plan to Watch](#plan-to-watch)  
+[Watching](#watching)
+[Watched Tv Series](#watched-tv-series)
+[Watched Asian](#watched-asian-tv-series)
+[Watched Movies](#watched-movies)
+[Plan to Watch](#plan-to-watch)
 
 ## Watching
 1. Tale of the Nine Tailed E11 6/10
@@ -16,6 +16,7 @@
 1. More Than Friends E12 - 3/10
 
 ## Watched Tv Series
+1. Bartu Ben - 6/10 - [imdb](https://www.imdb.com/title/tt9111010/)
 1. Breaking Bad
 1. Lost
 1. Lucifer : 7/10
@@ -27,6 +28,7 @@
 1. Vikings S04E9 civarı
 1. WestWorld (Dizi)
 1. Yaşamayanlar - 8 - 7/10 - [imdb](https://www.imdb.com/title/tt8063174/)
+1. Yarım Kalan Aşklar - 7/10 - [imdb](https://www.imdb.com/title/tt12466076/)
 
 ## Watched Asian TV Series
 1. A Man Called God
@@ -71,8 +73,8 @@
 1. Baby Boss
 1. Bounty.Hunters
 1. Bruce Almighty Aman Tanrım!
-1. Cloverfield Paradoksu : 5/10
 1. Cep Herkülü: Naim Süleymanoglu - 10/10 - [imdb](https://www.imdb.com/title/tt9500372/)
+1. Cloverfield Paradoksu : 5/10
 1. Crazy Stupid Love 2011
 1. Dark Shadows - 7/10 - [imdb](https://www.imdb.com/title/tt1077368/)
 1. Deep Impact - 6/10 - [imdb](https://m.imdb.com/title/tt0120647/)
@@ -94,8 +96,9 @@
 1. Hellboy 2 - 6/10 - [imdb](https://www.imdb.com/title/tt0411477/)
 1. Inferno 2016 - 7/10 - [imdb](https://www.imdb.com/title/tt3062096/)
 1. Inglourious Basterds - 8/10 - [imdb](https://m.imdb.com/title/tt0361748/)
+1. Interstellar 2014 - 9/10 - [imdb](https://www.imdb.com/title/tt0816692/)
 1. Johnny English (2003)
-1. Joker (2019)
+1. Joker 2019 - 7/10 - [imdb](https://www.imdb.com/title/tt7286456/)
 1. Just Go With It - [imdb](https://m.imdb.com/title/tt1564367/)
 1. King Arthur Legend of the Sword - 7/10 - [imdb](https://www.imdb.com/title/tt1972591/)
 1. Kubo and the Two Strings
