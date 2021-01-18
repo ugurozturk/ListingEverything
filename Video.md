@@ -14,6 +14,8 @@
 1. You are too much E24
 1. The King’s Avatar 14. Bölüm - 8/10
 1. More Than Friends E12 - 3/10
+1. How I Met Your Mother S01E20
+1. The Big Bang Theory S02E00
 
 ## Watched Tv Series
 1. Bartu Ben - 6/10 - [imdb](https://www.imdb.com/title/tt9111010/)
@@ -131,6 +133,7 @@
 1. The Man Who Knew Infinity
 1. The Mummy
 1. The Pirate Bay Away From Keyboard
+1. The Road - 5/10 - [imdb](https://www.imdb.com/title/tt0898367/)
 1. The Tourist - 8/10 - [imdb](https://www.imdb.com/title/tt1243957/)
 1. Tomb Raider 2018 - 8/10
 1. Transcendence - 7/10 - [imdb](https://www.imdb.com/title/tt2209764/)

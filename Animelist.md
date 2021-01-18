@@ -202,6 +202,7 @@
 1. Iketeru Futari : 16
 1. IS: Infinite Stratos : 12
 1. Isshuukan Friends. : 12
+1. Kami-tachi ni Hirowareta Otoko : 12
 1. Kamisama no Inai Nichiyoubi : 12
 1. Kanojo, Okarishimasu - 6/10
 1. Kill la Kill : 24
