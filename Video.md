@@ -69,12 +69,14 @@
 ## Watched Movies
 1. 17 Again (2009) - 9/10
 1. A Street Cat Named Bob (2016)	8.5/10
+1. Awake - 7/10 - [imdb](https://www.imdb.com/title/tt7584702/)
 1. Angry Birds
 1. Anti Matter
 1. Assassin Creed
 1. Baby Boss
 1. Bounty.Hunters
 1. Bruce Almighty Aman Tanrım!
+1. Bu Son Olsun (2012) - 6/10 - [imdb](https://www.imdb.com/title/tt2145623/)
 1. Cep Herkülü: Naim Süleymanoglu - 10/10 - [imdb](https://www.imdb.com/title/tt9500372/)
 1. Cloverfield Paradoksu : 5/10
 1. Crazy Stupid Love 2011
@@ -86,6 +88,7 @@
 1. Divergent 3 : 7/10
 1. Dr Strange (2016) : 10/10
 1. Edge of Tomorrow - 10/10 - [beyazperde](http://www.beyazperde.com/filmler/film-185030/)
+1. Ender's Game - 7/10 - [imdb](https://www.imdb.com/title/tt1731141/)
 1. Enter the Warriors Gate - 9/10 - [imdb](https://www.imdb.com/title/tt4652532/)
 1. Ex machina
 1. Extracurricular - 4/10
@@ -111,6 +114,7 @@
 1. My Secret Romance
 1. Neighbors
 1. Neighbors 2
+1. Oceans Rising (2017) - 2/10 - [imdb](https://www.imdb.com/title/tt6215044/)
 1. Passengers
 1. Patriots Day 8/10
 1. Pete's Dragon
@@ -135,6 +139,7 @@
 1. The Pirate Bay Away From Keyboard
 1. The Road - 5/10 - [imdb](https://www.imdb.com/title/tt0898367/)
 1. The Tourist - 8/10 - [imdb](https://www.imdb.com/title/tt1243957/)
+1. The Rewrite (2014) - 6/10 - [imdb](https://www.imdb.com/title/tt2509850/)
 1. Tomb Raider 2018 - 8/10
 1. Transcendence - 7/10 - [imdb](https://www.imdb.com/title/tt2209764/)
 1. UnderWorld 5 seriside
