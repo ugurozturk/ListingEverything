@@ -80,6 +80,8 @@
 1. Cep Herkülü: Naim Süleymanoglu - 10/10 - [imdb](https://www.imdb.com/title/tt9500372/)
 1. Cloverfield Paradoksu : 5/10
 1. Crazy Stupid Love 2011
+1. Çakallarla Dans 1 (2010) - 7/10 - [imdb](https://www.imdb.com/title/tt1783423/)
+1. Çakallarla Dans 4 (2016) - 6/10 - [imdb](https://www.youtube.com/watch?v=dkhcNoMNHA0)
 1. Dark Shadows - 7/10 - [imdb](https://www.imdb.com/title/tt1077368/)
 1. Deep Impact - 6/10 - [imdb](https://m.imdb.com/title/tt0120647/)
 1. Deepwater Horizon 7/10
@@ -95,6 +97,7 @@
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Fight For My Way - 7/10 - [imdb](https://www.imdb.com/title/tt6824234/)
 1. Geostorm - 7/10 - [imdb](http://www.beyazperde.com/filmler/film-228321/)
+1. Global Meltdown - 2/10 - [imdb](https://www.imdb.com/title/tt7108074/)
 1. Hacker
 1. Hacksaw Ridge : 9/10
 1. He Never Died : 5/10
@@ -121,6 +124,7 @@
 1. Pompeii - 7/10 - [imdb](https://www.imdb.com/title/tt1921064/)
 1. Ready Player One
 1. Rogue One 
+1. Ruby Strangelove Young Witch (2015) - 3/10 - [imdb](https://www.imdb.com/title/tt3813920/)
 1. Secret Life of pets
 1. Shanghai Fortress - 3/10 - [imdb](https://www.imdb.com/title/tt6628322/)
 1. Shazam : 7/10
