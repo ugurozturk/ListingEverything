@@ -81,6 +81,8 @@
 1. Cloverfield Paradoksu : 5/10
 1. Crazy Stupid Love 2011
 1. Çakallarla Dans 1 (2010) - 7/10 - [imdb](https://www.imdb.com/title/tt1783423/)
+1. Çakallarla Dans 2 (2010) - 6/10
+1. Çakallarla Dans 3 (2010) - 6/10
 1. Çakallarla Dans 4 (2016) - 6/10 - [imdb](https://www.youtube.com/watch?v=dkhcNoMNHA0)
 1. Dark Shadows - 7/10 - [imdb](https://www.imdb.com/title/tt1077368/)
 1. Deep Impact - 6/10 - [imdb](https://m.imdb.com/title/tt0120647/)
