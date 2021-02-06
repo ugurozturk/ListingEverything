@@ -140,6 +140,8 @@
 1. The Lost City Of Z
 1. The Man Who Knew Infinity
 1. The Mummy
+1. The Back-up Plan (2010) - 5/10 - [imdb](https://www.imdb.com/title/tt1212436/)
+1. The Foreigner (2017) - 8/10 - [imdb](https://www.imdb.com/title/tt1615160/)
 1. The Pirate Bay Away From Keyboard
 1. The Road - 5/10 - [imdb](https://www.imdb.com/title/tt0898367/)
 1. The Tourist - 8/10 - [imdb](https://www.imdb.com/title/tt1243957/)
