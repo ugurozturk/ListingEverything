@@ -69,10 +69,10 @@
 ## Watched Movies
 1. 17 Again (2009) - 9/10
 1. A Street Cat Named Bob (2016)	8.5/10
-1. Awake - 7/10 - [imdb](https://www.imdb.com/title/tt7584702/)
 1. Angry Birds
 1. Anti Matter
 1. Assassin Creed
+1. Awake - 7/10 - [imdb](https://www.imdb.com/title/tt7584702/)
 1. Baby Boss
 1. Bounty.Hunters
 1. Bruce Almighty Aman Tanrım!
@@ -127,6 +127,7 @@
 1. Ready Player One
 1. Rogue One 
 1. Ruby Strangelove Young Witch (2015) - 3/10 - [imdb](https://www.imdb.com/title/tt3813920/)
+1. SAGA: Curse of the Shadow - 4/10 - [imdb](https://www.imdb.com/title/tt2250234/)
 1. Secret Life of pets
 1. Shanghai Fortress - 3/10 - [imdb](https://www.imdb.com/title/tt6628322/)
 1. Shazam : 7/10
@@ -137,17 +138,17 @@
 1. Star Trek Beyond
 1. Storks 8/40
 1. Tarzan (2016) : 6/10
+1. The Back-up Plan (2010) - 5/10 - [imdb](https://www.imdb.com/title/tt1212436/)
 1. The Deaths of Ian Stone - 3/10 - [imdb](https://www.imdb.com/title/tt0810823/)
+1. The Foreigner (2017) - 8/10 - [imdb](https://www.imdb.com/title/tt1615160/)
 1. The Internet's Own Boy: The Story Of Aaron Swartz
 1. The Lost City Of Z
 1. The Man Who Knew Infinity
 1. The Mummy
-1. The Back-up Plan (2010) - 5/10 - [imdb](https://www.imdb.com/title/tt1212436/)
-1. The Foreigner (2017) - 8/10 - [imdb](https://www.imdb.com/title/tt1615160/)
 1. The Pirate Bay Away From Keyboard
+1. The Rewrite (2014) - 6/10 - [imdb](https://www.imdb.com/title/tt2509850/)
 1. The Road - 5/10 - [imdb](https://www.imdb.com/title/tt0898367/)
 1. The Tourist - 8/10 - [imdb](https://www.imdb.com/title/tt1243957/)
-1. The Rewrite (2014) - 6/10 - [imdb](https://www.imdb.com/title/tt2509850/)
 1. Tomb Raider 2018 - 8/10
 1. Transcendence - 7/10 - [imdb](https://www.imdb.com/title/tt2209764/)
 1. UnderWorld 5 seriside
