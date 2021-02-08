@@ -62,6 +62,7 @@
 1. The King Eternal Monarch - 7/10 - [imdb](https://www.imdb.com/title/tt11228748/) | [asianwiki](http://asianwiki.com/The_King:_Eternal_Monarch)
 1. The Liar and His Lover 16.Bölüm
 1. Train to Busan (2016)
+1. True Beauty - 7/10 - [imdb](https://www.imdb.com/title/tt13274038/)
 1. Weightlifting Fairy Kim Bok-joo
 1. You're all surrounded E20
 1. Zombie Detective - 7/10
@@ -79,6 +80,7 @@
 1. Bu Son Olsun (2012) - 6/10 - [imdb](https://www.imdb.com/title/tt2145623/)
 1. Cep Herkülü: Naim Süleymanoglu - 10/10 - [imdb](https://www.imdb.com/title/tt9500372/)
 1. Cloverfield Paradoksu : 5/10
+1. Connected (2008) - 8/10 - [imdb](https://www.imdb.com/title/tt1156506/)
 1. Crazy Stupid Love 2011
 1. Çakallarla Dans 1 (2010) - 7/10 - [imdb](https://www.imdb.com/title/tt1783423/)
 1. Çakallarla Dans 2 (2010) - 6/10
