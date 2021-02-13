@@ -13,11 +13,11 @@
 ## Watching Animes
 1. Dr. Stone - S02E02 - 8/10
 1. Tensei shitara Slime Datta Ken - S02E04 - 8/10
-1. Kumo Desu ga, Nani ka - S01E05 - 8/10
+1. Kumo Desu ga, Nani ka - S01E06 - 8/10
 1. Mushoku Tensei Isekai Ittara Honki Dasu - S01E04 - 10/10
-1. Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari - S01E04 - 7/10
+1. Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari - S01E06 - 7/10
 1. Kaifuku Jutsushi no Yarinaoshi - S01E03 - 7/10
-1. Ore Dake Haireru Kakushi Dungeon - S01E05 - 8/10
+1. Ore Dake Haireru Kakushi Dungeon - S01E06 - 8/10
 1. Mahouka Koukou no Rettousei - Raihousha Hen 2. Bölüm
 1. The Kings Avatar 2. sezon 2. Bölüm
 1. Dorohedoro - S01E01 - 4/10
