@@ -49,6 +49,7 @@
 1. Kill Me Heal Me - 8/10 - [imdb](https://www.imdb.com/title/tt4339192/)
 1. Legend of the blue sea
 1. Memories of the Alhambra | E16 | 9/10 | [imdb](https://www.imdb.com/title/tt8236556/) | [asianwiki](http://asianwiki.com/Memories_of_the_Alhambra)
+1. Mr. Queen - 7/10
 1. My Boss is a Hero
 1. My girlfriend is a gumiho
 1. My Love From Another Star
@@ -76,6 +77,7 @@
 1. Assassin Creed
 1. Awake - 7/10 - [imdb](https://www.imdb.com/title/tt7584702/)
 1. Baby Boss
+1. Below Zero - 3/10 - [imdb](https://www.imdb.com/title/tt9845564/)
 1. Bounty.Hunters
 1. Bruce Almighty Aman Tanrım!
 1. Bu Son Olsun (2012) - 6/10 - [imdb](https://www.imdb.com/title/tt2145623/)
@@ -102,6 +104,7 @@
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Fight For My Way - 7/10 - [imdb](https://www.imdb.com/title/tt6824234/)
 1. Geostorm - 7/10 - [imdb](http://www.beyazperde.com/filmler/film-228321/)
+1. Ghost Town (2008)- 5/10 - [imdb](https://www.imdb.com/title/tt0995039/)
 1. Global Meltdown - 2/10 - [imdb](https://www.imdb.com/title/tt7108074/)
 1. Hacker
 1. Hacksaw Ridge : 9/10
