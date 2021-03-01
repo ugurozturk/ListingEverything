@@ -16,6 +16,10 @@
 1. More Than Friends E12 - 3/10
 1. How I Met Your Mother S01E20
 1. The Big Bang Theory S02E00
+1. %3 S03E01
+1. Partners for Justice S01E02
+1. Altered Carbon S01E03
+1. VIP S01E01
 
 ## Watched Tv Series
 1. Bartu Ben - 6/10 - [imdb](https://www.imdb.com/title/tt9111010/)
@@ -49,7 +53,7 @@
 1. Kill Me Heal Me - 8/10 - [imdb](https://www.imdb.com/title/tt4339192/)
 1. Legend of the blue sea
 1. Memories of the Alhambra | E16 | 9/10 | [imdb](https://www.imdb.com/title/tt8236556/) | [asianwiki](http://asianwiki.com/Memories_of_the_Alhambra)
-1. Mr. Queen - 7/10
+1. Mr. Queen (2020) - 7/10 - [imdb](https://www.imdb.com/title/tt13400006/) | [asianwiki](https://asianwiki.com/Mr._Queen)
 1. My Boss is a Hero
 1. My girlfriend is a gumiho
 1. My Love From Another Star
