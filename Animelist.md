@@ -13,7 +13,7 @@
 ## Watching Animes
 1. Dr. Stone - S02E02 - 8/10
 1. Tensei shitara Slime Datta Ken - S02E06 - 8/10
-1. Kumo Desu ga, Nani ka - S01E08 - 8/10
+1. Kumo Desu ga, Nani ka - S01E09 - 8/10
 1. Mushoku Tensei Isekai Ittara Honki Dasu - S01E07 - 10/10
 1. Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari - S01E08 - 7/10
 1. Kaifuku Jutsushi no Yarinaoshi - S01E07 - 7/10
