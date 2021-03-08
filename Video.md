@@ -18,10 +18,10 @@
 1. The Big Bang Theory S02E00
 1. %3 S03E01
 1. Partners for Justice S01E02
-1. Altered Carbon S01E03
 1. VIP S01E01
 
 ## Watched Tv Series
+1. Altered Carbon - 8/10 - S02E08 [imdb](https://www.imdb.com/title/tt2261227/)
 1. Bartu Ben - 6/10 - [imdb](https://www.imdb.com/title/tt9111010/)
 1. Breaking Bad
 1. Lost
@@ -33,9 +33,8 @@
 1. The Witcher (2019)
 1. Vikings S04E9 civarı
 1. WestWorld (Dizi)
-1. Yaşamayanlar - 8 - 7/10 - [imdb](https://www.imdb.com/title/tt8063174/)
 1. Yarım Kalan Aşklar - 7/10 - [imdb](https://www.imdb.com/title/tt12466076/)
-
+1. Yaşamayanlar - 8 - 7/10 - [imdb](https://www.imdb.com/title/tt8063174/)
 ## Watched Asian TV Series
 1. A Man Called God
 1. Beautiful Gong Shim
@@ -94,6 +93,7 @@
 1. Çakallarla Dans 3 (2010) - 6/10
 1. Çakallarla Dans 4 (2016) - 6/10 - [imdb](https://www.youtube.com/watch?v=dkhcNoMNHA0)
 1. Dark Shadows - 7/10 - [imdb](https://www.imdb.com/title/tt1077368/)
+1. Double World - 6/10 - [imdb](https://www.imdb.com/title/tt10508838/)
 1. Deep Impact - 6/10 - [imdb](https://m.imdb.com/title/tt0120647/)
 1. Deepwater Horizon 7/10
 1. Divergent 1 - 7/10 - [imdb](https://www.imdb.com/title/tt1840309/?ref_=ttls_li_i)
