@@ -14,6 +14,7 @@
 1. Tomb Raider (2013)
 1. Torchlight 2
 1. Dishonored
+1. Diablo 3
 
 ## Plan to Play
 
