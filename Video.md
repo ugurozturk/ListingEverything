@@ -120,6 +120,7 @@
 1. Johnny English (2003)
 1. Joker 2019 - 7/10 - [imdb](https://www.imdb.com/title/tt7286456/)
 1. Just Go With It - [imdb](https://m.imdb.com/title/tt1564367/)
+1. Kağıttan Hayatlar - 7/10 - [imdb](https://www.imdb.com/title/tt13045890/)
 1. King Arthur Legend of the Sword - 7/10 - [imdb](https://www.imdb.com/title/tt1972591/)
 1. Kubo and the Two Strings
 1. Kung Fu Yoga
@@ -141,8 +142,9 @@
 1. Ruby Strangelove Young Witch (2015) - 3/10 - [imdb](https://www.imdb.com/title/tt3813920/)
 1. SAGA: Curse of the Shadow - 4/10 - [imdb](https://www.imdb.com/title/tt2250234/)
 1. Secret Life of pets
+1. Seventh Son (2014) - 7/10 - [imdb](https://www.imdb.com/title/tt1121096/)
 1. Shanghai Fortress - 3/10 - [imdb](https://www.imdb.com/title/tt6628322/)
-1. Shazam : 7/10
+1. Shazam - 7/10
 1. Sing (2016)
 1. Snowden (2016)
 1. Split (2016)
