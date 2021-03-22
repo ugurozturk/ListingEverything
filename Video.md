@@ -84,6 +84,7 @@
 1. Bounty.Hunters
 1. Bruce Almighty Aman Tanrım!
 1. Bu Son Olsun (2012) - 6/10 - [imdb](https://www.imdb.com/title/tt2145623/)
+1. Cellular (2004) - 7.5/10 - [imdb](https://www.imdb.com/title/tt0337921/)
 1. Cep Herkülü: Naim Süleymanoglu - 10/10 - [imdb](https://www.imdb.com/title/tt9500372/)
 1. Cloverfield Paradoksu : 5/10
 1. Connected (2008) - 8/10 - [imdb](https://www.imdb.com/title/tt1156506/)
@@ -93,12 +94,12 @@
 1. Çakallarla Dans 3 (2010) - 6/10
 1. Çakallarla Dans 4 (2016) - 6/10 - [imdb](https://www.youtube.com/watch?v=dkhcNoMNHA0)
 1. Dark Shadows - 7/10 - [imdb](https://www.imdb.com/title/tt1077368/)
-1. Double World - 6/10 - [imdb](https://www.imdb.com/title/tt10508838/)
 1. Deep Impact - 6/10 - [imdb](https://m.imdb.com/title/tt0120647/)
 1. Deepwater Horizon 7/10
 1. Divergent 1 - 7/10 - [imdb](https://www.imdb.com/title/tt1840309/?ref_=ttls_li_i)
 1. Divergent 2 - 7/10 - [imdb](https://www.imdb.com/title/tt2908446/?ref_=ttls_li_i)
 1. Divergent 3 : 7/10
+1. Double World - 6/10 - [imdb](https://www.imdb.com/title/tt10508838/)
 1. Dr Strange (2016) : 10/10
 1. Edge of Tomorrow - 10/10 - [beyazperde](http://www.beyazperde.com/filmler/film-185030/)
 1. Ender's Game - 7/10 - [imdb](https://www.imdb.com/title/tt1731141/)
