@@ -17,7 +17,6 @@
 1. Mushoku Tensei Isekai Ittara Honki Dasu - S01E07 - 10/10
 1. Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari - S01E08 - 7/10
 1. Kaifuku Jutsushi no Yarinaoshi - S01E07 - 7/10
-1. Ore Dake Haireru Kakushi Dungeon - S01E08 - 8/10
 1. Mahouka Koukou no Rettousei - Raihousha Hen 2. Bölüm
 1. The Kings Avatar 2. sezon 2. Bölüm
 1. Dorohedoro - S01E01 - 4/10
@@ -278,6 +277,7 @@
 1. One Piece Movie 6: Omatsuri Danshaku to Himitsu no Shima : 1
 1. One Piece Movie 7: Karakuri-jou no Mecha Kyohei : 1
 1. One Punch Man : 12
+1. Ore Dake Haireru Kakushi Dungeon - S01E12 - 5/10 - [imdb](https://www.imdb.com/title/tt12728856/) | [myanimelist](https://myanimelist.net/anime/41899)
 1. Oushitsu Kyoushi Haine 12
 1. Overlord : 13
 1. Overlord: Ple Ple Pleiades : 8
