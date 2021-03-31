@@ -153,6 +153,7 @@
 1. Stajyer 7/10
 1. Star Trek Beyond
 1. Storks 8/40
+1. Superintelligence - 7.5/10 - [imdb](https://www.imdb.com/title/tt7178640/)
 1. Tarzan (2016) : 6/10
 1. The Back-up Plan (2010) - 5/10 - [imdb](https://www.imdb.com/title/tt1212436/)
 1. The Deaths of Ian Stone - 3/10 - [imdb](https://www.imdb.com/title/tt0810823/)
