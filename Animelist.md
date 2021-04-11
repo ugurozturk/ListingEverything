@@ -12,11 +12,9 @@
 
 ## Watching Animes
 1. Dr. Stone - S02E02 - 8/10
-1. Tensei shitara Slime Datta Ken - S02E06 - 8/10
 1. Kumo Desu ga, Nani ka - S01E09 - 8/10
 1. Mushoku Tensei Isekai Ittara Honki Dasu - S01E07 - 10/10
 1. Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari - S01E08 - 7/10
-1. Kaifuku Jutsushi no Yarinaoshi - S01E07 - 7/10
 1. Mahouka Koukou no Rettousei - Raihousha Hen 2. Bölüm
 1. The Kings Avatar 2. sezon 2. Bölüm
 1. Dorohedoro - S01E01 - 4/10
@@ -209,6 +207,7 @@
 1. Iketeru Futari : 16
 1. IS: Infinite Stratos : 12
 1. Isshuukan Friends. : 12
+1. Kaifuku Jutsushi no Yarinaoshi - S01E12 - 5/10
 1. Kami-tachi ni Hirowareta Otoko : 12
 1. Kamisama no Inai Nichiyoubi : 12
 1. Kanojo, Okarishimasu - 6/10
@@ -330,6 +329,7 @@
 1. Sword Art Online: Sword Art Offline : 9
 1. Taimadou Gakuen 35 Shiken Shoutai 12
 1. Tales of Zestiria the X : 12
+1. Tensei shitara Slime Datta Ken - S02E12 - 8/10
 1. The Last: Naruto the Movie : 1
 1. To LOVE-Ru : 26
 1. To LOVE-Ru Darkness : 12
