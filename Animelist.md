@@ -310,6 +310,8 @@
 1. Shingeki no Kyojin : 25
 1. Shingeki no Kyojin OVA : 3
 1. Shingeki no Kyojin Season 2 12. Bölüm
+1. Shingeki no Kyojin Season 3 - 8/10
+1. Shingeki no Kyojin Season 4 Part 2 - 7/10
 1. Shinmai Maou no Testament : 12
 1. Shokugeki no Souma : 24
 1. Shokugeki no Souma ni no sara Ova : 1
