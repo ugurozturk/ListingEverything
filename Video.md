@@ -67,6 +67,7 @@
 1. The Liar and His Lover 16.Bölüm
 1. Train to Busan (2016)
 1. True Beauty - 7/10 - [imdb](https://www.imdb.com/title/tt13274038/)
+1. Vincenzo - 8/10 - [imdb](https://www.imdb.com/title/tt13433812/)
 1. Weightlifting Fairy Kim Bok-joo
 1. You're all surrounded E20
 1. Zombie Detective - 7/10
@@ -128,6 +129,7 @@
 1. Love For A Thousand More
 1. Making Family - 8/10 - [imdb](https://www.imdb.com/title/tt6389310/)
 1. Moana (2016)	8/10
+1. Mortal Kombat (2021) - 7/10
 1. My Holo Love - 5/10 - [imdb](https://www.imdb.com/title/tt11058644/)
 1. My Secret Romance
 1. Neighbors

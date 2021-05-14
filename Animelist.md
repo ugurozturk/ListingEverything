@@ -11,8 +11,9 @@
 5 - Natsume Yuujinchou Go
 
 ## Watching Animes
+1. Tensura Nikki- Tensei shitara Slime Datta Ken E05
 1. Dr. Stone - S02E02 - 8/10
-1. Kumo Desu ga, Nani ka - S01E09 - 8/10
+1. Kumo Desu ga, Nani ka - S01E15 - 8/10
 1. Mushoku Tensei Isekai Ittara Honki Dasu - S01E07 - 10/10
 1. Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari - S01E08 - 7/10
 1. Mahouka Koukou no Rettousei - Raihousha Hen 2. Bölüm
@@ -160,8 +161,8 @@
 1. Drifters : 12
 1. Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka Gaiden Sword Oratoria 12. Bölüm
 1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka : 13
-1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA : 1
 1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III - S03E12 - 7/10
+1. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA : 1
 1. Durarara!! : 24
 1. Durarara!!x2 Shou : 12
 1. Elfen Lied : 13
@@ -206,7 +207,9 @@
 1. Ichiban Ushiro no Daimaou : 12
 1. Iketeru Futari : 16
 1. IS: Infinite Stratos : 12
+1. Isekai Shokudou - 4/10
 1. Isshuukan Friends. : 12
+1. Jujutsu Kaisen - 7/10
 1. Kaifuku Jutsushi no Yarinaoshi - S01E12 - 5/10
 1. Kami-tachi ni Hirowareta Otoko : 12
 1. Kamisama no Inai Nichiyoubi : 12
@@ -357,6 +360,7 @@
 1. Yahari Ore no Seishun Love Comedy wa Machigatteiru. : 13
 1. Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku : 13
 1. Yamada-kun to 7-nin no Majo (TV) : 12
+1. Yasuke - 7/10 - [imdb](https://www.imdb.com/title/tt9310330/) | [myanimelist](https://myanimelist.net/anime/43697/Yasuke)
 1. Yosuga no Sora: In Solitude, Where We Are Least Alone. : 12
 1. Youjo Senki 12 + 1sepcial (ep 6,5)
 1. Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - 6/10
