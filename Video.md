@@ -138,6 +138,7 @@
 1. Oceans Rising (2017) - 2/10 - [imdb](https://www.imdb.com/title/tt6215044/)
 1. Passengers
 1. Patriots Day 8/10
+1. The Tomorrow War - 8/10 - [imdb](https://www.imdb.com/title/tt9777666/) - @Fantasy | @BilimKurgu
 1. Pete's Dragon
 1. Point Blank - 6/10 - [imdb](https://www.imdb.com/title/tt02499472/)
 1. Pompeii - 7/10 - [imdb](https://www.imdb.com/title/tt1921064/)
