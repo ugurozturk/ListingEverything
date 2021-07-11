@@ -82,6 +82,7 @@
 1. Awake - 7/10 - [imdb](https://www.imdb.com/title/tt7584702/)
 1. Baby Boss
 1. Below Zero - 3/10 - [imdb](https://www.imdb.com/title/tt9845564/)
+1. Black Widow - 7/10 - [imdb](https://www.imdb.com/title/tt3480822/)
 1. Bounty.Hunters
 1. Bruce Almighty Aman Tanrım!
 1. Bu Son Olsun (2012) - 6/10 - [imdb](https://www.imdb.com/title/tt2145623/)
