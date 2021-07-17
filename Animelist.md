@@ -13,7 +13,6 @@
 ## Watching Animes
 1. Tensura Nikki- Tensei shitara Slime Datta Ken E05
 1. Dr. Stone - S02E02 - 8/10
-1. Kumo Desu ga, Nani ka - S01E15 - 8/10
 1. Mushoku Tensei Isekai Ittara Honki Dasu - S01E07 - 10/10
 1. Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari - S01E08 - 7/10
 1. Mahouka Koukou no Rettousei - Raihousha Hen 2. Bölüm
@@ -226,6 +225,7 @@
 1. Kono Subarashii Sekai ni Shukufuku wo! OVA : 2
 1. Kore wa Zombie Desu ka? : 12
 1. Koutetsujou no Kabaneri : 12
+1. Kumo Desu ga, Nani ka Season 1 - 9/10
 1. Kuroko no Basket : 25
 1. Kuroko no Basket 2nd Season : 25
 1. Kuroko no Basket 3rd Season : 25

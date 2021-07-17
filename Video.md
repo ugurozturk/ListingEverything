@@ -6,7 +6,6 @@
 [Plan to Watch](#plan-to-watch)
 
 ## Watching
-1. Tale of the Nine Tailed E11 6/10
 1. Legion S01E07
 1. Missing Nine - 8
 1. Planet Earth - 2
@@ -62,6 +61,7 @@
 1. Ruler Master of the Mask E40
 1. Strong Woman Do Bong Soon 16.Bölüm
 1. Suspicious Partner E40
+1. Tale of the Nine Tailed - 6/10
 1. The Heirs
 1. The King Eternal Monarch - 7/10 - [imdb](https://www.imdb.com/title/tt11228748/) | [asianwiki](http://asianwiki.com/The_King:_Eternal_Monarch)
 1. The Liar and His Lover 16.Bölüm
@@ -139,10 +139,10 @@
 1. Oceans Rising (2017) - 2/10 - [imdb](https://www.imdb.com/title/tt6215044/)
 1. Passengers
 1. Patriots Day 8/10
-1. The Tomorrow War - 8/10 - [imdb](https://www.imdb.com/title/tt9777666/) - @Fantasy | @BilimKurgu
 1. Pete's Dragon
 1. Point Blank - 6/10 - [imdb](https://www.imdb.com/title/tt02499472/)
 1. Pompeii - 7/10 - [imdb](https://www.imdb.com/title/tt1921064/)
+1. Predestination - 8/10 - [imdb](https://www.imdb.com/title/tt2397535/)
 1. Ready Player One
 1. Rogue One 
 1. Ruby Strangelove Young Witch (2015) - 3/10 - [imdb](https://www.imdb.com/title/tt3813920/)
@@ -170,6 +170,7 @@
 1. The Pirate Bay Away From Keyboard
 1. The Rewrite (2014) - 6/10 - [imdb](https://www.imdb.com/title/tt2509850/)
 1. The Road - 5/10 - [imdb](https://www.imdb.com/title/tt0898367/)
+1. The Tomorrow War - 8/10 - [imdb](https://www.imdb.com/title/tt9777666/) - @Fantasy | @BilimKurgu
 1. The Tourist - 8/10 - [imdb](https://www.imdb.com/title/tt1243957/)
 1. Tomb Raider 2018 - 8/10
 1. Transcendence - 7/10 - [imdb](https://www.imdb.com/title/tt2209764/)
