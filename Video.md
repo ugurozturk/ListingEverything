@@ -55,6 +55,7 @@
 1. My Boss is a Hero
 1. My girlfriend is a gumiho
 1. My Love From Another Star
+1. My Roommate Is A Gumiho - 6/10 - [imdb](https://www.imdb.com/title/tt13777028/) | [asianwiki](https://asianwiki.com/My_Roommate_Is_A_Gumiho)
 1. My Sassy Girl
 1. Personel Taste
 1. Pinocchio
