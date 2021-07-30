@@ -124,6 +124,7 @@
 1. Interstellar 2014 - 9/10 - [imdb](https://www.imdb.com/title/tt0816692/)
 1. Johnny English (2003)
 1. Joker 2019 - 7/10 - [imdb](https://www.imdb.com/title/tt7286456/)
+1. Jolt - 7/10 - [imdb](https://www.imdb.com/title/tt10228134/)
 1. Just Go With It - [imdb](https://m.imdb.com/title/tt1564367/)
 1. Kağıttan Hayatlar - 7/10 - [imdb](https://www.imdb.com/title/tt13045890/)
 1. King Arthur Legend of the Sword - 7/10 - [imdb](https://www.imdb.com/title/tt1972591/)
