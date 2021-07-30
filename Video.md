@@ -128,6 +128,7 @@
 1. Just Go With It - [imdb](https://m.imdb.com/title/tt1564367/)
 1. Kağıttan Hayatlar - 7/10 - [imdb](https://www.imdb.com/title/tt13045890/)
 1. King Arthur Legend of the Sword - 7/10 - [imdb](https://www.imdb.com/title/tt1972591/)
+1. Kingdom: Ashin of the North - 7/10 - [imdb](https://www.imdb.com/title/tt13412252/)
 1. Kubo and the Two Strings
 1. Kung Fu Yoga
 1. Love For A Thousand More
