@@ -155,6 +155,7 @@
 1. Shanghai Fortress - 3/10 - [imdb](https://www.imdb.com/title/tt6628322/)
 1. Shazam - 7/10
 1. Sing (2016)
+1. Skater Girl - 7/10 - [imdb](https://www.imdb.com/title/tt6964940/)
 1. Snowden (2016)
 1. Split (2016)
 1. Stajyer 7/10
