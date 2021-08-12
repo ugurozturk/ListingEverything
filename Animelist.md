@@ -207,6 +207,7 @@
 1. Iketeru Futari : 16
 1. IS: Infinite Stratos : 12
 1. Isekai Shokudou - 4/10
+1. Isekai wa Smartphone to Tomo ni S01E12 - 7/10 - [imdb](https://www.imdb.com/title/tt7088332/) | [myanimelist](https://myanimelist.net/anime/35203/Isekai_wa_Smartphone_to_Tomo_ni)
 1. Isshuukan Friends. : 12
 1. Jujutsu Kaisen - 7/10
 1. Kaifuku Jutsushi no Yarinaoshi - S01E12 - 5/10
