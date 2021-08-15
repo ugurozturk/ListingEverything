@@ -150,6 +150,11 @@
 1. Ready Player One
 1. Rogue One 
 1. Ruby Strangelove Young Witch (2015) - 3/10 - [imdb](https://www.imdb.com/title/tt3813920/)
+1. Rurouni Kenshin (2012) - 7/10
+1. Rurouni Kenshin: Kyoto Inferno (2014) - 7/10
+1. Rurouni Kenshin: The Beginning (2021) - 7/10
+1. Rurouni Kenshin: The Final (2021) - 7/10
+1. Rurouni Kenshin: The Legend Ends (2014) - 7/10
 1. SAGA: Curse of the Shadow - 4/10 - [imdb](https://www.imdb.com/title/tt2250234/)
 1. Scary Stories To Tell İn The Dark - 6/10 - [imdb](https://www.imdb.com/title/tt3387520/)
 1. Secret Life of pets
