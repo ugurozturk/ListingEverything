@@ -171,6 +171,7 @@
 1. Free! : 12
 1. Fullmetal Alchemist : 51
 1. Fullmetal Alchemist: Brotherhood : 64
+1. Fumetsu no Anata - 7/10
 1. Fuuka 12 4/10
 1. Gakusen Toshi Asterisk : 12
 1. Gakusen Toshi Asterisk S2 : 12
