@@ -351,6 +351,7 @@
 1. Tonari no Seki-kun OVA : 1
 1. Triage X : 10
 1. Trinity Seven : 12
+1. Tsuki Ga Michibiku Isekai Douchuu : 7/10
 1. Ushio to Tora (TV) : 26	7/10
 1. Ushio to Tora (TV) 2nd Season :	13	7/10
 1. Vampire Knight : 13
