@@ -336,7 +336,9 @@
 1. Sword Art Online: Sword Art Offline : 9
 1. Taimadou Gakuen 35 Shiken Shoutai 12
 1. Tales of Zestiria the X : 12
-1. Tensei shitara Slime Datta Ken - S02E12 - 8/10
+1. Tensei shitara Slime Datta Ken Season 1 : 8/10
+1. Tensei shitara Slime Datta Ken Season 2 : 8/10
+1. Tensei shitara Slime Datta Ken Season 2 Part 2 : 8/10
 1. The Last: Naruto the Movie : 1
 1. To LOVE-Ru : 26
 1. To LOVE-Ru Darkness : 12
