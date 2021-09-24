@@ -112,7 +112,7 @@
 1. F9: The Fast Saga - 7/10 - [imdb](https://www.imdb.com/title/tt5433138/)
 1. Fantastic Beasts And Where To Find Them (2016)	8/10
 1. Fight For My Way - 7/10 - [imdb](https://www.imdb.com/title/tt6824234/)
-1. Free Guy - 6/10 - [imdb](https://www.imdb.com/title/tt6264654/)
+1. Free Guy - 8/10 - [imdb](https://www.imdb.com/title/tt6264654/)
 1. Geostorm - 7/10 - [imdb](http://www.beyazperde.com/filmler/film-228321/)
 1. Ghost Town (2008)- 5/10 - [imdb](https://www.imdb.com/title/tt0995039/)
 1. Global Meltdown - 2/10 - [imdb](https://www.imdb.com/title/tt7108074/)
