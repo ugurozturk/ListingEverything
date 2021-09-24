@@ -307,6 +307,7 @@
 1. Sakurasou no Pet na Kanojo : 24
 1. Samurai Champloo : 26
 1. Sankarea : 12
+1. Seirei Gensouki Season 1 : 5/10 - [imdb](https://www.imdb.com/title/tt13544802/) | [myanimelist](https://myanimelist.net/anime/44203/Seirei_Gensouki)
 1. Seiren - 12
 1. Shigatsu wa Kimi no Uso : 22
 1. Shigatsu wa Kimi no Uso: Moments : 1
