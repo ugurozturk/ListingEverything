@@ -249,6 +249,7 @@
 1. Maou Gakuin no Futekigousha : 13 - 7/10 - [imdb](https://www.imdb.com/title/tt12432936/) | [myanimelist](https://myanimelist.net/anime/40496/Maou_Gakuin_no_Futekigousha__Shijou_Saikyou_no_Maou_no_Shiso_Tensei_shite_Shison-tachi_no_Gakkou_e_)
 1. Masou Gakuen HxH - Special: 1
 1. Masou Gakuen HxH : 12
+1. Meikyuu Black Company Season 1 : 7/10
 1. Military! : 12
 1. Mirai Nikki (TV) : 26
 1. Mob Psycho 100 : 12
