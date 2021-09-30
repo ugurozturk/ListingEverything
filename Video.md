@@ -18,6 +18,7 @@
 1. %3 S03E01
 1. Partners for Justice S01E02
 1. VIP S01E01
+1. Doom at Your Service S01E02
 
 ## Watched Tv Series
 1. Altered Carbon - 8/10 - S02E08 [imdb](https://www.imdb.com/title/tt2261227/)
@@ -96,6 +97,7 @@
 1. Çakallarla Dans 2 (2010) - 6/10
 1. Çakallarla Dans 3 (2010) - 6/10
 1. Çakallarla Dans 4 (2016) - 6/10 - [imdb](https://www.youtube.com/watch?v=dkhcNoMNHA0)
+1. Cruella (2021) - 
 1. Dark Shadows - 7/10 - [imdb](https://www.imdb.com/title/tt1077368/)
 1. Deep Impact - 6/10 - [imdb](https://m.imdb.com/title/tt0120647/)
 1. Deepwater Horizon 7/10

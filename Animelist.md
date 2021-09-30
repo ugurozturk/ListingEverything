@@ -179,6 +179,7 @@
 1. Gate: Jieitai Kanochi nite, Kaku Tatakaeri : 12
 1. Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season : 12
 1. Gekkan Shoujo Nozaki-kun : 12
+1. Genjitsu Shugi Yuusha no Oukoku Saikenki : 7/10 - [imdb](https://www.imdb.com/title/tt13399402/) | [myanimelist](https://myanimelist.net/anime/41710/Genjitsu_Shugi_Yuusha_no_Oukoku_Saikenki)
 1. Genshiken Nidaime : 13
 1. Gin no Guardian 12. Bölüm
 1. Gin no Saji : 11
