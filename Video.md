@@ -80,6 +80,7 @@
 1. A Street Cat Named Bob (2016)	8.5/10
 1. Angry Birds
 1. Anti Matter
+1. Army of Thieves (2021) - 7/10 - [imdb](https://www.imdb.com/title/tt13024674/)
 1. Assassin Creed
 1. Awake - 7/10 - [imdb](https://www.imdb.com/title/tt7584702/)
 1. Baby Boss
