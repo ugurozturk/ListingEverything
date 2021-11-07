@@ -188,6 +188,7 @@
 1. The Tourist - 8/10 - [imdb](https://www.imdb.com/title/tt1243957/)
 1. Tomb Raider 2018 - 8/10
 1. Transcendence - 7/10 - [imdb](https://www.imdb.com/title/tt2209764/)
+1. Upgrade
 1. UnderWorld 5 seriside
 1. Venom - 7/10 - [imdb](https://www.imdb.com/title/tt1270797/)
 1. WarGames (1983) 10/10
