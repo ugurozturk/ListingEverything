@@ -242,6 +242,7 @@
 1. Magi: The Labyrinth of Magic : 25
 1. Mahouka Koukou no Rettousei : 26
 1. Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! : 6
+1. Mairimashita! Iruma-kun Season 1 - 6/10 - [imdb](https://www.imdb.com/title/tt11034066/) | [myanimelist](https://myanimelist.net/anime/39196/mairimashita_iruma-kun)
 1. Maken-Ki! : 12
 1. Maken-Ki! OVA : 2
 1. Maken-Ki! Specials : 6
