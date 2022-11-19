@@ -15,8 +15,12 @@
 1. Torchlight 2
 1. Dishonored
 1. Diablo 3
+1. God Of War (2018)
 
 ## Plan to Play
 
 ## NOTE Games
 Do not play Total War Series. You dont like it.
+
+## Watched Games
+1. God Of War (2022)
